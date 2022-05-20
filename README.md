@@ -1,5 +1,7 @@
-### Audio Programmer
+### Games Industry Audio Programmer
+Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 
+Occasionally make games for fun.
 <!--
 **JDSherbert/JDSherbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
