@@ -2,6 +2,7 @@
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 
 Occasionally make games for fun.
+Main Languages: C, C#, C++ and Python.
 <!--
 **JDSherbert/JDSherbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
