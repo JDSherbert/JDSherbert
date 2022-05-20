@@ -1,4 +1,4 @@
-### Games Industry Certified Audio Programmer
+## Audio Programmer
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 
 Occasionally make games for fun.
