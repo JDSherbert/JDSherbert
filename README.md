@@ -5,6 +5,8 @@ Occasionally make games for fun.
 Main Languages: C, C#, C++ and Python.
 
 https://github.com/JDSherbert#languages--software
+
+https://github.com/JDSherbert#7-day-wakatime-statistics--takes-last-7-days-
 <!--
 **JDSherbert/JDSherbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
