@@ -8,6 +8,8 @@ Main Languages: C, C#, C++ and Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight)]
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert)]
+
 <!--
 https://github.com/JDSherbert#languages--software
 
