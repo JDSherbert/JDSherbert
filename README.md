@@ -4,6 +4,8 @@ Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 Occasionally make games for fun.
 Main Languages: C, C#, C++ and Python.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 https://github.com/JDSherbert#languages--software
 
