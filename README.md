@@ -4,9 +4,9 @@ Occasionally make games for fun.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight)
 
 <!--
 https://github.com/JDSherbert#languages--software
