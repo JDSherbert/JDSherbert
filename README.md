@@ -8,13 +8,13 @@ Occasionally make games for fun.
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight)
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=JDSherbert)
+![Your Repository's Stats](https://contrib.rocks/image?repo=[JDSherbert](https://github.com/JDSherbert/Sherbert-Engine))
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/JDSherbert)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=[https://github.com/JDSherbert](https://github.com/JDSherbert/Sherbert-Engine))
 
 <!--
 https://github.com/JDSherbert#languages--software
