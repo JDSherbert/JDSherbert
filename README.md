@@ -2,7 +2,11 @@
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 Occasionally make games for fun.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight) ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight) ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight) 
+
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
