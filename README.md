@@ -2,8 +2,6 @@
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 Occasionally make games for fun.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight)
@@ -11,6 +9,8 @@ Occasionally make games for fun.
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight)
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
+![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert)
 
