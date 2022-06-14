@@ -12,9 +12,9 @@ Occasionally make games for fun.
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=(https://github.com/JDSherbert))
 
 <!--
 https://github.com/JDSherbert#languages--software
