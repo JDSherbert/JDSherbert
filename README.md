@@ -2,7 +2,7 @@
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 Occasionally make games for fun.
 
-[/twitter/follow/:user?label=Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight)
 
