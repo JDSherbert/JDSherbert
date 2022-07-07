@@ -33,7 +33,7 @@ Platforms:
 
 -----------------------------------------------
 
-<a href="https://twitter.com/JDSherbert">![GitHub followers](https://img.shields.io/github/followers/JDSherbert?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) ![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social)
+<a href="https://github.com/JDSherbert">![GitHub followers](https://img.shields.io/github/followers/JDSherbert?style=social) <a href="https://twitter.com/JDSherbert">![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social) <a href="https://reddit.com/user/JDSherbert/">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) <a href="https://www.youtube.com/channel/UCQWN7zdUfskROpOVrkR2TYg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) <a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert)
 
