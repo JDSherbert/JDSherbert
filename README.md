@@ -8,7 +8,10 @@ Occasionally make games for fun.
 
 Preferred IDE:
 
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+<a href="https://www.jetbrains.com/rider/">![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) 
+<a href="https://visualstudio.microsoft.com/">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+<a href="https://code.visualstudio.com/)">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+<a href="https://www.eclipse.org/downloads/">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 -----------------------------------------------
 
@@ -33,7 +36,11 @@ Platforms:
 
 -----------------------------------------------
 
-<a href="https://github.com/JDSherbert">![GitHub followers](https://img.shields.io/github/followers/JDSherbert?style=social) <a href="https://twitter.com/JDSherbert">![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social) <a href="https://reddit.com/user/JDSherbert/">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) <a href="https://www.youtube.com/channel/UCQWN7zdUfskROpOVrkR2TYg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) <a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social)
+<a href="https://github.com/JDSherbert">![GitHub followers](https://img.shields.io/github/followers/JDSherbert?style=social) 
+<a href="https://twitter.com/JDSherbert">![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social) 
+<a href="https://reddit.com/user/JDSherbert/">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) 
+<a href="https://www.youtube.com/channel/UCQWN7zdUfskROpOVrkR2TYg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) 
+<a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social)
 
 <a href="https://github.com/JDSherbert">![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert)
 
