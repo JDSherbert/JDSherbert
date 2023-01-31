@@ -20,7 +20,7 @@ Preferred IDE:
 Preferred Frameworks/Engines:
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Unreal] (https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
@@ -36,29 +36,37 @@ Preferred Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 -----------------------------------------------
 
 Version Control:
 
-![Github] (https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git] (https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 -----------------------------------------------
 
 Platforms:
 
 <a href="https://www.microsoft.com/en-au/windows"> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </a>
+<a href="https://www.xbox.com/en-GB/"> ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) </a>
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 -----------------------------------------------
 
-<a href="https://github.com/JDSherbert">![GitHub followers](https://img.shields.io/github/followers/JDSherbert?style=social) 
-<a href="https://twitter.com/JDSherbert">![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social) 
-<a href="https://reddit.com/user/JDSherbert/">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) 
-<a href="https://www.youtube.com/channel/UCQWN7zdUfskROpOVrkR2TYg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) 
-<a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social)
+Store:
+
+<a href="https://jdsherbert.itch.io/"> ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) </a>
+
+-----------------------------------------------
+
+<a href="https://github.com/JDSherbert">![GitHub followers](https://img.shields.io/github/followers/JDSherbert?style=social) </a>
+<a href="https://twitter.com/JDSherbert_">![Twitter Follow](https://img.shields.io/twitter/follow/JDSherbert_?style=social) </a>
+<a href="https://reddit.com/user/JDSherbert/">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) </a>
+<a href="https://www.youtube.com/channel/UCQWN7zdUfskROpOVrkR2TYg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) </a>
+<a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social) </a>
 
 <a href="https://github.com/JDSherbert">![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert) </a>
 
