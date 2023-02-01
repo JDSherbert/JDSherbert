@@ -55,7 +55,6 @@ Preferred Platforms:
 
 <a href="https://www.microsoft.com/en-au/windows"> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </a>
 <a href="https://www.xbox.com/en-GB/"> ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) </a>
-<a href="https://www.apple.com/uk/ios/ios-16/"> ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) </a>
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
