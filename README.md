@@ -64,6 +64,7 @@ Store:
 
 <a href="https://jdsherbert.itch.io/"> ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) </a>
 <a href="https://assetstore.unity.com/publishers/71435">![Unity Asset Store](https://img.shields.io/badge/Unity-Asset%20Store-blue?style=for-the-badge&logo=unity&logoColor=white) </a>
+<a href="https://assetstore.unity.com/publishers/71435">![Epic Marketplace](https://img.shields.io/badge/Epic-Marketplace-black?style=for-the-badge&logo=epic&logoColor=white) </a>
 
 -----------------------------------------------
 
