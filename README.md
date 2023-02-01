@@ -73,6 +73,7 @@ Store:
 <a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social) </a>
 
 <a href="https://github.com/JDSherbert">![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert) </a>
+<a href="https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6">![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg) </a>
 
 <!--
 https://github.com/JDSherbert#languages--software
