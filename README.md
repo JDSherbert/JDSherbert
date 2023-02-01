@@ -43,7 +43,7 @@ Preferred Languages:
 
 -----------------------------------------------
 
-Version Control:
+Preferred Version Control:
 
 ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -51,7 +51,7 @@ Version Control:
 
 -----------------------------------------------
 
-Platforms:
+Preferred Platforms:
 
 <a href="https://www.microsoft.com/en-au/windows"> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) </a>
 <a href="https://www.xbox.com/en-GB/"> ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) </a>
