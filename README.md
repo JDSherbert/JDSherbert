@@ -2,7 +2,7 @@
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 Occasionally make games for fun.
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JDSherbert&row=1&theme=codeSTACKr)](https://github.com/JDSherbert/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=codeSTACKr&row=1)](https://github.com/JDSherbert/github-profile-trophy)
 <a href="https://wakatime.com/@JDSherbert"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=codeSTACKr) 
 [![JDSherbert's github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=codeSTACKr)](https://github.com/JDSherbert)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=codeSTACKr) 
