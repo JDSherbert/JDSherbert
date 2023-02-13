@@ -7,7 +7,7 @@ Occasionally make games for fun.
 [![JDSherbert's github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=tokyonight)](https://github.com/JDSherbert)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight) 
-[![Sparkline](https://stars.medv.io/JDSherbert/badges.svg)](https://stars.medv.io/JDSherbert/badges) </a>
+<!--[![Sparkline](https://stars.medv.io/JDSherbert/badges.svg)](https://stars.medv.io/JDSherbert/badges)--> </a>
 
 -----------------------------------------------
 
