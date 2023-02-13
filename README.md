@@ -8,7 +8,6 @@ Occasionally make games for fun.
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=codeSTACKr) </a>
 [![Sparkline](https://stars.medv.io/JDSherbert/badges.svg)](https://stars.medv.io/JDSherbert/badges)
 
-
 -----------------------------------------------
 
 Preferred IDE:
