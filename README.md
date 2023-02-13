@@ -69,7 +69,7 @@ Store:
 -----------------------------------------------
 
 <a href="https://github.com/JDSherbert">![GitHub Followers](https://img.shields.io/github/followers/JDSherbert?style=social) </a>
-<a href="https://twitter.com/JDSherbert_">![Twitter Followers](https://img.shields.io/twitter/followers/JDSherbert_?style=social) </a>
+<a href="https://twitter.com/JDSherbert_">![Twitter Followers](https://img.shields.io/twitter/following/JDSherbert_?style=social) </a>
 <a href="https://reddit.com/user/JDSherbert/">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social) </a>
 <a href="https://www.youtube.com/channel/UCQWN7zdUfskROpOVrkR2TYg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social) </a>
 <a href="https://discord.gg/JDdecZ3">![Discord](https://img.shields.io/discord/664896441747243010?label=SoundHUB%20Discord%20Server&logo=Discord&style=social) </a>
