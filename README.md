@@ -6,7 +6,7 @@ Occasionally make games for fun.
 [![JDSherbert's github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=codeSTACKr)](https://github.com/JDSherbert)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=codeSTACKr) 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=codeSTACKr) </a>
-![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
 -----------------------------------------------
