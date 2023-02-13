@@ -2,12 +2,14 @@
 Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
 Occasionally make games for fun.
 
+<a href="https://wakatime.com/@JDSherbert">
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=tokyonight&row=1)](https://github.com/JDSherbert/github-profile-trophy)
-<a href="https://wakatime.com/@JDSherbert"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight) 
 [![JDSherbert's github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=tokyonight)](https://github.com/JDSherbert)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight) 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight) </a>
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight) 
 [![Sparkline](https://stars.medv.io/JDSherbert/badges.svg)](https://stars.medv.io/JDSherbert/badges)
+</a>
 
 -----------------------------------------------
 
