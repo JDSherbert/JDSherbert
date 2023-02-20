@@ -79,7 +79,8 @@ Store:
 
 <a href="https://github.com/JDSherbert">![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert) </a>
 <a href="https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6">![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg) </a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5FNZUI)
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5FNZUI)
   
 <!--
 https://github.com/JDSherbert#languages--software
