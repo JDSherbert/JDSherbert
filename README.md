@@ -1,6 +1,5 @@
-## Audio Programmer
-Work with various tech, including Unreal Engine, Unity, Wwise and FMOD.
-Occasionally make games for fun.
+## Programmer + Audio person
+Occasionally gives away free stuff!
 
 <a href="https://wakatime.com/@JDSherbert"> [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=tokyonight&row=1)](https://github.com/JDSherbert/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight) 
