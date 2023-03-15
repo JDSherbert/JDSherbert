@@ -1,11 +1,50 @@
-## Programmer + Audio person
+Programmer + Audio Person
+-------------------------
+
 Occasionally gives away free stuff!
 
-<a href="https://wakatime.com/@JDSherbert"> [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=tokyonight&row=1)](https://github.com/JDSherbert/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&theme=tokyonight) 
-[![JDSherbert's github Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=tokyonight)](https://github.com/JDSherbert)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight) 
+
+
+### Skills 
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
+
+### Socials
+<p align="left">
+<a href="https://discord.com/users/JDSherbert#0001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/jdsherbert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/JDSherbert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/jdsherbert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/JDSherbert_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/JDSherbert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="https://www.twitch.tv/JDSherbert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### GitHub Stats
+<!-- Trophies --> <a href="https://github.com/jdsherbert" align="left"><img src="https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=tokyonight" alt="JDSherbert's Trophies" /></a>
+<!-- Main --> <a href="http://www.github.com/jdsherbert"><img src="https://github-readme-stats.vercel.app/api?username=jdsherbert&show_icons=true&hide=&theme=tokyonight&show_icons=true" alt="JDSherbert's GitHub Stats" /></a>
+<!-- Streak --> <a href="http://www.github.com/jdsherbert"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jdsherbert&theme=tokyonight&ring=ef4444" /></a>
+<!-- Graph --> <a href="http://www.github.com/jdsherbert"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jdsherbert&bg_color=0f172a&color=ffffff&line=6366f1&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- Top Langs --> <a href="https://github.com/jdsherbert" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdsherbert&langs_count=10&&theme=tokyonight&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- WakaTime --> <a href="https://wakatime.com/@JDSherbert" align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JDSherbert&theme=tokyonight" alt="Wakatime Stats" /></a>
+
+
+<b>Top Repositories</b><div width="100%" align="center">
+<a href="https://github.com/jdsherbert/sherbert-engine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jdsherbert&repo=sherbert-engine&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/jdsherbert/broken-wings" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jdsherbert&repo=broken-wings&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&langs_count=10&layout=compact&theme=tokyonight)--> 
 <!--[![Sparkline](https://stars.medv.io/JDSherbert/badges.svg)](https://stars.medv.io/JDSherbert/badges)--> </a>
 
 -----------------------------------------------
@@ -78,6 +117,9 @@ Store:
 
 <a href="https://github.com/JDSherbert">![Profile View Counter](https://komarev.com/ghpvc/?username=JDSherbert) </a>
 <a href="https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6">![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg) </a>
+<a href="https://www.github.com/jdsherbert" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/jdsherbert?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
+<a href="https://www.twitter.com/JDSherbert_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/JDSherbert_?logo=twitter&style=for-the-badge&color=6366f1&labelColor=0f172a"/></a>
+<a href="https://www.twitch.tv/JDSherbert" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/JDSherbert?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=0f172a&label=TWITCH+STATUS" /></a>
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P5FNZUI)
   
