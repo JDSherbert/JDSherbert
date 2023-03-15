@@ -352,7 +352,7 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
   <img style="margin-right: 6px" alt="Github Follow"src="https://img.shields.io/github/followers/jdsherbert?style=social">
   <img style="margin-right: 6px" alt="Twitter Follow"src="https://img.shields.io/twitter/follow/JDSherbert_?style=social">
   <img style="margin-right: 6px" alt="Reddit Karma"src="https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social">
-  <img style="margin-right: 6px" alt="Youtube Subscribers"src="https://img.shields.io/youtube/channel/subscribers/@JDSherbert">
+  <img style="margin-right: 6px" alt="Youtube Subscribers"src="https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social">
   <img style="margin-right: 6px" alt="Discord"src="https://img.shields.io/discord/664896441747243010?label=Discord%20Server&logo=Discord&style=social">
 </div>
   
