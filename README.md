@@ -141,19 +141,30 @@
 <!-- SOCIAL MEDIA LINKS END -->
 <!-- LINKS END -->
 
-<br> </br>
+<br/>
 
 <!-- weather icon start -->
-<img align="right" position="fixed" margin=0px alt="Weather" caption="My Weather Today..." src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="312px">
+
+<img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px">
+<h5 align="right" margin=100px> My Current Weather... </h5>
+
+----------------------------------------------- 
 <!-- weather icon end -->
 
 <!-- Welcome Text -->
 ![Welcome Text](https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+to+JDSherbert's+Github!)
 <!-- Welcome Text End -->
 
+<!-- RECENT ACTIVITY -->
+<div align="right">
+<h4> Recent Activity </h4>
+<a href="https://www.twitter.com/JDSherbert_"> <img align="right" alt="Twitter Feed" src="https://github-readme-twitter-gazf.vercel.app/api?id=JDSherbert_&amp;layout=wide" alt="github-readme-twitter"></a>
+</div>
+<!-- RECENT ACTIVITY END -->   
+
 <!-- my summary start -->
 <p> 
-    Hi. My name is JD! I mostly make music, sounds, and software, specifically games. I work in the games industry as a professional programmer and have many project under my belt! I work with a variety of different technologies in order to bring an immersive world of audio to a game's experience.
+Hi. My name is JD! I mostly make music, sounds, and software, specifically games. I work in the games industry as a professional programmer and have many project under my belt! I work with a variety of different technologies in order to bring an immersive world of audio to a game's experience.
 </p>
 
 <p>
@@ -165,12 +176,14 @@
 </p>
 <!-- my summary end -->
 
+
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 
-  
-<br/>
-<br/>
 
 <!-- GITHUB STATS -->
 <div align="center"> 
@@ -216,7 +229,6 @@
 
 <br/>
 <br/>
-
 
 <!-- TOOLS AND FRAMEWORKS -->
 <details>
