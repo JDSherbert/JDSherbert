@@ -144,7 +144,7 @@
 <br> </br>
 
 <!-- weather icon start -->
-<img align="right" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="300px">
+<img align="right" position="right" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="256px">
 <!-- weather icon end -->
 
 <!-- Welcome Text -->
