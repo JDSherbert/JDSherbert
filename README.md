@@ -32,7 +32,7 @@
 <div align="center">
   <a href="https://github.com/JDSherbert">
   <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg"/>
-  <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>
+  <!--<img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
   <!-- <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
   <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert">
