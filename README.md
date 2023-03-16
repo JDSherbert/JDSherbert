@@ -194,25 +194,33 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 <br/>
 <!-- TROPHY -->
 <div align="center">
+  <a href="https://github.com/JDSherbert">
     <img src="https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=algolia&no-bg=true&no-frame=true">
+  </a>
 </div>
 <!-- TROPHY END -->
 <!-- STREAK -->
 <div align="center">
+  <a href="https://github.com/JDSherbert">
     <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="JDSherbert's Streak" />
+  </a>
 <!-- STREAK END -->
 <!-- STATS -->
+  <a href="https://github.com/JDSherbert">
     <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
+  </a>
 <!-- STATS END -->
 </div>
 
 <br/>
 <!-- LANGUAGES -->
 <div align="center">
+  <a href="https://github.com/JDSherbert">
     <img width=330 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=JDSherbert&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
 <!-- LANGUAGES END -->
 <!-- WAKATIME -->
-    <a href="https://wakatime.com/@JDSherbert" title="Data update every midnight">
+    <a href="https://wakatime.com/@JDSherbert" title="Wakatime Stats">
         <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=JDSherbert&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding activity languages" />
     </a>
 </div>
@@ -223,7 +231,9 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 
 <!-- GRAPH -->
 <div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=JDSherbert&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
+  <a href="https://github.com/JDSherbert">
+    <img alt="JDSherbert Commit Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JDSherbert&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
+  </a>
 </div>
 <!-- GRAPH END -->
 <!-- GITHUB STATS END -->
@@ -336,14 +346,14 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 </details>
 <!-- ONLINE STORES END -->
 
-
-  
   
 <!-- Footer Start -->
   
 <!-- wave GIF start -->
 <div align="center" width="100%">
+  <a href="https://linktr.ee/JDSherbert">
     <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+  </a>
 </div>
 <!-- wave GIF end -->
   
