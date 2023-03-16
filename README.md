@@ -153,7 +153,9 @@
 <!-- weather icon end -->
 
 <!-- Welcome Text -->
-![Welcome Text](https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+to+JDSherbert's+Github!)
+<a href="https://github.com/JDSherbert">
+  <img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+to+JDSherbert's+Github!">
+</a>
 <!-- Welcome Text End -->
 
 <!-- RECENT ACTIVITY -->
