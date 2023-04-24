@@ -51,7 +51,6 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/juce" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
@@ -272,7 +271,8 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-%23FF9900.svg?style=for-the-badge&logo=juce)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
