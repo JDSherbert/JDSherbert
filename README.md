@@ -51,6 +51,7 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/juce" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
