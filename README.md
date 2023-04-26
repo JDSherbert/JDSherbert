@@ -162,7 +162,7 @@
 </a>
 <!-- Welcome Text End -->
 
-<!-- RECENT ACTIVITY -->
+<!-- RECENT ACTIVITY
 <div align="right">
 <h4> Recent Activity </h4>
 <a href="https://www.twitter.com/JDSherbert_"> <img align="right" alt="Twitter Feed" src="https://github-readme-twitter-gazf.vercel.app/api?id=JDSherbert_&amp;layout=wide" alt="github-readme-twitter"></a>
