@@ -327,25 +327,32 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 
 <div align="center">
   <a href="https://jdsherbert.itch.io/"> 
-    <img style="margin-right: 6px" alt="Itch.io" src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"> 
+    <img style="margin-right: 6px" alt="Itch.io" 
+         src="https://img.shields.io/badge/Itch.io-FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&color=black&labelColor=FF0B34">
   </a>
   <a href="https://assetstore.unity.com/publishers/71435"> 
-    <img style="margin-right: 6px" alt="Unity Asset Store" src="https://img.shields.io/badge/-Unity%20Asset%20Store-white?style=for-the-badge&logo=unity&logoColor=black"> 
+    <img style="margin-right: 6px" alt="Unity Asset Store" 
+         src="https://img.shields.io/badge/Unity%20Asset%20Store-white.svg?style=for-the-badge&logo=unity&logoColor=black&color=black&labelColor=white"> 
   </a>
   <a href=""> 
-    <img style="margin-right: 6px" alt="Epic Marketplace" src="https://img.shields.io/badge/-Epic%20Marketplace-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
+    <img style="margin-right: 6px" alt="Epic Marketplace" 
+         src="https://img.shields.io/badge/Epic%20Marketplace-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=black&labelColor=0E1128"> 
   </a>
   <a href="https://godotmarketplace.com/publisher/jdsherbert"> 
-    <img style="margin-right: 6px" alt="Godot Marketplace" src="https://img.shields.io/badge/-Godot%20Marketplace-blue?style=for-the-badge&logo=godotengine&logoColor=white"> 
+    <img style="margin-right: 6px" alt="Godot Marketplace" 
+         src="https://img.shields.io/badge/Godot%20Marketplace-blue.svg?style=for-the-badge&logo=godotengine&logoColor=white&color=black&labelColor=blue"> 
   </a>
   <a href="https://www.gamedevmarket.net/member/JDSherbert"> 
-    <img style="margin-right: 6px" alt="GameDev Market" src="https://img.shields.io/badge/-GameDev%20Market-orange?style=for-the-badge&logo=gamedeveloper&logoColor=white"> 
+    <img style="margin-right: 6px" alt="GameDev Market" 
+         src="https://img.shields.io/badge/GameDev%20Market-orange.svg?style=for-the-badge&logo=gamedeveloper&logoColor=white&color=black&labelColor=orange"> 
   </a>
   <a href="https://marketplace.yoyogames.com/publishers/7519/jdsherbert"> 
-    <img style="margin-right: 6px" alt="GameMakerStudio Marketplace" src="https://img.shields.io/badge/-GameMakerStudio%20Store-black?style=for-the-badge&logo=gamemakerstudio&logoColor=white"> 
+    <img style="margin-right: 6px" alt="GameMakerStudio Marketplace" 
+         src="https://img.shields.io/badge/GameMakerStudio%20Store-121011.svg?style=for-the-badge&logo=gamemakerstudio&logoColor=white&color=black&labelColor=121011"> 
   </a>
   <a href="https://ko-fi.com/jdsherbert"> 
-    <img style="margin-right: 6px" alt="Ko-Fi Store" src="https://img.shields.io/badge/-KoFi%20Store-pink?style=for-the-badge&logo=kofi&logoColor=white"> 
+    <img style="margin-right: 6px" alt="Ko-Fi Store" 
+         src="https://img.shields.io/badge/KoFi%20Store-darkpink?style=for-the-badge&logo=kofi&logoColor=white&color=black&labelColor=darkpink"> 
   </a>
 </div>
   
