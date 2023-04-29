@@ -51,7 +51,7 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/java" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/.net" />
   </a>
 </div>
 <!-- Skills Icons end -->
