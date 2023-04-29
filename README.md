@@ -348,11 +348,11 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
   </a>
   <a href="https://marketplace.yoyogames.com/publishers/7519/jdsherbert"> 
     <img style="margin-right: 6px" alt="GameMakerStudio Marketplace" 
-         src="https://img.shields.io/badge/GameMakerStudio%20Store-121011.svg?style=for-the-badge&logo=gamemakerstudio&logoColor=white&color=black&labelColor=121011"> 
+         src="https://img.shields.io/badge/Game%20Maker%20Studio%20Store-121011.svg?style=for-the-badge&logo=gamemakerstudio&logoColor=white&color=black&labelColor=121011"> 
   </a>
   <a href="https://ko-fi.com/jdsherbert"> 
     <img style="margin-right: 6px" alt="Ko-Fi Store" 
-         src="https://img.shields.io/badge/KoFi%20Store-darkpink?style=for-the-badge&logo=kofi&logoColor=white&color=black&labelColor=darkpink"> 
+         src="https://img.shields.io/badge/KoFi%20Store-hotpink?style=for-the-badge&logo=kofi&logoColor=white&color=black&labelColor=hotpink"> 
   </a>
 </div>
   
