@@ -50,10 +50,10 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <img height="40" img width="40" src="https://cdn.simpleicons.org/c" a href="https://learn.microsoft.com/en-us/cpp/c-language"/>
-  <img height="40" img width="40" src="https://cdn.simpleicons.org/c++" a href="https://learn.microsoft.com/en-us/cpp/cpp-language"/>
-  <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp" a href="https://learn.microsoft.com/en-us/dotnet/csharp/"/>
-  <img height="40" img width="40" src="https://cdn.simpleicons.org/python" a href="https://docs.python.org/3/"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/c" img href="https://learn.microsoft.com/en-us/cpp/c-language"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/c++" img href="https://learn.microsoft.com/en-us/cpp/cpp-language"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp" img href="https://learn.microsoft.com/en-us/dotnet/csharp/"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/python" img href="https://docs.python.org/3/"/>
 </div>
 <!-- Skills Icons end -->
 
