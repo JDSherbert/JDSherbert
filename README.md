@@ -276,11 +276,11 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 
 #### Version Control:
 
-![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
-![GitLFS](https://img.shields.io/badge/GitLFS-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Perforce Helix](https://img.shields.io/badge/Perforce%20Helix-00AEEF.svg?style=for-the-badge&logo=Perforce&logoColor=white&color=black&labelColor=00AEEF)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black&labelColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=121011)
+![GitLab](https://img.shields.io/static/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=black&labelColor=FC6D26)
+![GitLFS](https://img.shields.io/badge/GitLFS-FC6D26.svg?style=for-the-badge&logo=gitlfs&logoColor=white)
 
 -----------------------------------------------
   
