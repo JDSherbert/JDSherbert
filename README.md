@@ -124,11 +124,6 @@
                     <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow" width="35px">
                 </a>
             </th>
-            <th>
-                <a href="https://www.facebook.com/jdsherbert/">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook" width="35px">
-                </a>
-            </th>
         </tr>
     </thead>
 </table>
