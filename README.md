@@ -278,7 +278,7 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 
 ![Perforce Helix](https://img.shields.io/badge/Perforce%20Helix-00AEEF.svg?style=for-the-badge&logo=Perforce&logoColor=white&color=black&labelColor=00AEEF)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black&labelColor=F05033)
-![GitLFS](https://img.shields.io/badge/Git%20LFS-FC6D26.svg?style=for-the-badge&logo=gitlfs&logoColor=white&color=black&labelColor=FC6D26)
+![GitLFS](https://img.shields.io/badge/Git%20LFS-F64935.svg?style=for-the-badge&logo=gitlfs&logoColor=white&color=black&labelColor=F64935)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=121011)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=black&labelColor=FC6D26)
 
