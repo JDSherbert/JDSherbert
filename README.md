@@ -35,7 +35,7 @@
   <!--<img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
   <!-- <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
-  <!-- img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert"> -->
+  <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert">
   <img style="margin-right: 6px" alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="Views" src="https://komarev.com/ghpvc/?username=JDSherbert">
   </a>
@@ -167,7 +167,8 @@
 
 <!-- my summary start -->
 <p> 
-Hi. My name is JD! I mostly make music, sounds, and software, specifically games. I work in the games industry as a professional programmer and have many projects under my belt! I work with a variety of different technologies in order to bring an immersive world of audio to a game's experience. I'm commonly using Unreal Engine, Unity. FMOD and Wwise on a day to day basis.
+Hi. My name is JD! I make music, sounds, and software, specifically games, game engines and audio plugins. 
+I work in the games industry as a professional programmer and have many projects under my belt! I work with a variety of different technologies in order to bring an immersive world of audio for you to experience. I'm commonly using Unreal Engine, Unity, FMOD and Wwise on a day to day basis.
 </p>
 
 <p>
@@ -175,18 +176,14 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 </p>
 
 <p>
-    I've produced many games and projects which can all be seen on <a href="https://jdsherbert.itch.io"> Itch.io! </a>
+    I've produced many games and projects which you can grab from my repositories here or, from <a href="https://jdsherbert.itch.io"> Itch.io! </a>
 </p>
 <!-- my summary end -->
 
-
-
 <br/>
 <br/>
 <br/>
 <br/>
-
-
 
 <!-- GITHUB STATS -->
 <div align="center"> 
