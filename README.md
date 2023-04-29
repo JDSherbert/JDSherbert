@@ -266,11 +266,11 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=black&labelColor=0E1128) 
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=black&color=black&labelColor=white) 
 ![Godot](https://img.shields.io/badge/Godot-0078d7.svg?style=for-the-badge&logo=godot-engine&logoColor=white&color=black&labelColor=0078d7) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=black&labelColor=5C2D91)
-![JUCE](https://img.shields.io/badge/JUCE-%23FF9900.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white&color=black&labelColor=5C2D91)
+![JUCE](https://img.shields.io/badge/JUCE-FF9900.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white&color=black&labelColor=FF9900)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=opengl&logoColor=white&color=black&labelColor=5586A4)
+![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&color=black&labelColor=F5792A)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&color=black&labelColor=FF9900)
 
 -----------------------------------------------
 
