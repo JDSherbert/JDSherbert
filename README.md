@@ -35,7 +35,7 @@
   <!-- <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
   <!-- <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
-  <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert">
+  <!-- img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert" -->
   <img style="margin-right: 6px" alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="Views" src="https://komarev.com/ghpvc/?username=JDSherbert">
   </a>
@@ -46,10 +46,10 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/c" />
-  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
-  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
-  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/python" />
+  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/c" /> </a>
+  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/c++" /> </a>
+  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/csharp" /> </a>
+  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/python" /> </a>
 </div>
 <!-- Skills Icons end -->
 
