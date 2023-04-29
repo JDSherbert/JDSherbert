@@ -126,7 +126,7 @@
             </th>
             <th>
                 <a href="https://www.audius.co/jdsherbert">
-                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy" width="35px">
+                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy/white" width="35px">
                 </a>
             </th>
             <th>
