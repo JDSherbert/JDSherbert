@@ -58,27 +58,12 @@
 <!-- LINKS -->
 <details>
     <summary> 🔗 LINKS </summary>
-<pre>
-<b>Business Card  :</b> <a href="https://jdsherbert.carrd.co/">JDSherbert.carrd.co</a> 
-<b>LinkTree       :</b> <a href="https://linktr.ee/JDSherbert">linktr.ee/JDSherbert</a> 
-<b>Portfolio      :</b> <a href="https://jdsherbert.wordpress.com">jdsherbert.wordpress.com</a>
-<b>GitHub         :</b> <a href="https://github.com/JDSherbert">github.com/JDSherbert</a>
-<b>Youtube        :</b> <a href="https://www.youtube.com/@JDSherbert">youtube.com/@JDSherbert</a>
-<b>Discord        :</b> <a href="https://discord.gg/JDdecZ3">https://discord.gg/JDdecZ3</a>
-
-</pre>
-
 <br/>
 
 <!-- SOCIAL MEDIA LINKS -->
 <table align="center">
     <thead align="center">
         <tr>
-            <th>
-                <a href="mailto:JDSherbert@outlook.com">
-                    <img alt="outlook icon" src="https://cdn.simpleicons.org/microsoftoutlook" width="35px">
-                </a>
-            </th>
             <th>
                 <a href=https://linktr.ee/JDSherbert>
                     <img alt="linktree icon" src="https://cdn.simpleicons.org/linktree" width="35px">
