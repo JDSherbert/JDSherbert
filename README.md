@@ -51,7 +51,6 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/.net" />
   </a>
 </div>
 <!-- Skills Icons end -->
@@ -329,7 +328,7 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
     <img style="margin-right: 6px" alt="Itch.io" src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"> 
   </a>
   <a href="https://assetstore.unity.com/publishers/71435"> 
-    <img style="margin-right: 6px" alt="Unity Asset Store" src="https://img.shields.io/badge/Unity-Asset%20Store-white?style=for-the-badge&logo=unity&logoColor=white"> 
+    <img style="margin-right: 6px" alt="Unity Asset Store" src="https://img.shields.io/badge/-Unity%20Asset%20Store-white?style=for-the-badge&logo=unity&logoColor=white"> 
   </a>
   <a href=""> 
     <img style="margin-right: 6px" alt="Epic Marketplace" src="https://img.shields.io/badge/Epic-Marketplace-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
