@@ -32,8 +32,8 @@
 <div align="center">
   <a href="https://github.com/JDSherbert">
   <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg"/>
-  <!--<img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
-  <!-- <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
+  <!-- <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
+  <!-- <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
   <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert">
   <img style="margin-right: 6px" alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter">
@@ -86,7 +86,7 @@
             </th>
             <th>
                 <a href="https://twitter.com/JDSherbert_">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter" width="35px">
+                    <img alt="twitter icon" src="https://cdn.simpleicons.org/twitter" width="35px">
                 </a>
             </th>
             <th>
@@ -117,6 +117,16 @@
             <th>
                 <a href="https://soundcloud.com/jdsherbert">
                     <img alt="soundcloud icon" src="https://cdn.simpleicons.org/soundcloud" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://audiomack.com/jdsherbert">
+                    <img alt="audiomack icon" src="https://cdn.simpleicons.org/audiomack" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.audius.co/jdsherbert">
+                    <img alt="audius icon" src="https://cdn.simpleicons.org/audius" width="35px">
                 </a>
             </th>
             <th>
