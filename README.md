@@ -279,7 +279,8 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 
 ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab)
 
 -----------------------------------------------
   
@@ -338,6 +339,9 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
   </a>
   <a href="https://www.gamedevmarket.net/member/JDSherbert"> 
     <img style="margin-right: 6px" alt="GameDev Market" src="https://img.shields.io/badge/-GameDev%20Market-orange?style=for-the-badge&logo=gamedeveloper&logoColor=white"> 
+  </a>
+  <a href="https://marketplace.yoyogames.com/publishers/7519/jdsherbert"> 
+    <img style="margin-right: 6px" alt="GameMakerStudio Marketplace" src="https://img.shields.io/badge/-GameMakerStudio%20Store-black?style=for-the-badge&logo=gamemakerstudio&logoColor=white"> 
   </a>
   <a href="https://ko-fi.com/jdsherbert"> 
     <img style="margin-right: 6px" alt="Ko-Fi Store" src="https://img.shields.io/badge/-KoFi%20Store-pink?style=for-the-badge&logo=kofi&logoColor=white"> 
