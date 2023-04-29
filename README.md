@@ -46,12 +46,10 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <a href="https://github.com/JDSherbert">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/c" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  </a>
+  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/c" />
+  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
+  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
+  <a href="https://github.com/JDSherbert" img height="40" width="40" src="https://cdn.simpleicons.org/python" />
 </div>
 <!-- Skills Icons end -->
 
