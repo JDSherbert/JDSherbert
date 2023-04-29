@@ -30,15 +30,19 @@
 
 <!-- Badges Start -->
 <div align="center">
-  <a href="https://github.com/JDSherbert">
-  <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg"/>
+  <img style="margin-right: 6px" alt="wakatime badge" 
+       src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg" 
+       href="https://github.com/JDSherbert"/>
   <!-- <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
   <!-- <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
   <!-- img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert" -->
-  <img style="margin-right: 6px" alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter">
-  <img style="margin-right: 6px" alt="Views" src="https://komarev.com/ghpvc/?username=JDSherbert">
-  </a>
+  <img style="margin-right: 6px" alt="Hits" 
+       src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter" 
+       href="https://github.com/JDSherbert">
+  <img style="margin-right: 6px" alt="Views" 
+       src="https://komarev.com/ghpvc/?username=JDSherbert" 
+       href="https://github.com/JDSherbert">
 </div>
 <!-- Badges End -->
 
@@ -46,10 +50,10 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/c" /> </a>
-  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/c++" /> </a>
-  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/csharp" /> </a>
-  <a href="https://github.com/JDSherbert" img height="40" img width="40" img src="https://cdn.simpleicons.org/python" /> </a>
+  <img height="40" img width="40" img src="https://cdn.simpleicons.org/c" href="https://github.com/JDSherbert"/>
+  <img height="40" img width="40" img src="https://cdn.simpleicons.org/c++" href="https://github.com/JDSherbert" />
+  <img height="40" img width="40" img src="https://cdn.simpleicons.org/csharp" href="https://github.com/JDSherbert"/>
+  <img height="40" img width="40" img src="https://cdn.simpleicons.org/python" href="https://github.com/JDSherbert"/>
 </div>
 <!-- Skills Icons end -->
 
