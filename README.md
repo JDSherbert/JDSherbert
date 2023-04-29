@@ -255,9 +255,9 @@ Hi. My name is JD! I mostly make music, sounds, and software, specifically games
 
 <a href="https://www.jetbrains.com/rider/">![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) 
 <a href="https://visualstudio.microsoft.com/">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&color=black&labelColor=5C2D91) 
-<a href="https://code.visualstudio.com/)">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-<a href="https://notepad-plus-plus.org/">![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) </a>
-<a href="https://www.eclipse.org/downloads/">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) </a>
+<a href="https://code.visualstudio.com/)">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=black&labelColor=0078d7) 
+<a href="https://notepad-plus-plus.org/">![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black&color=black&labelColor=90E59A) </a>
+<a href="https://www.eclipse.org/downloads/">![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white&color=black&labelColor=FE7A16) </a>
 
 -----------------------------------------------
 
