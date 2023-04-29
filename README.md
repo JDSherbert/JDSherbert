@@ -300,7 +300,7 @@ I work in the games industry as a professional programmer and have many projects
   
 ![Wwise](https://img.shields.io/badge/Wwise-00549F?style=for-the-badge&logo=wwise&logoColor=white&color=black&labelColor=00549F) 
 ![FMOD](https://img.shields.io/badge/FMOD-0E1128.svg?style=for-the-badge&logo=fmod&logoColor=white&color=black&labelColor=0E1128) 
-![OpenAL](https://img.shields.io/badge/OpenAL-FFFFFF.svg?style=for-the-badge&logo=anilist&logoColor=white&color=black&labelColor=FFFFFF) 
+![OpenAL](https://img.shields.io/badge/OpenAL-darkred.svg?style=for-the-badge&logo=anilist&logoColor=white&color=black&labelColor=darkred) 
 
 -----------------------------------------------
 </details>
