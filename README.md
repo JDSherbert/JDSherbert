@@ -35,7 +35,7 @@
   <!--<img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
   <!-- <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
-  <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert">
+  <!-- img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert"> -->
   <img style="margin-right: 6px" alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="Views" src="https://komarev.com/ghpvc/?username=JDSherbert">
   </a>
@@ -51,10 +51,7 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/c++" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/csharp" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/java" />
   </a>
 </div>
 <!-- Skills Icons end -->
