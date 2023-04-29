@@ -176,7 +176,7 @@ I work in the games industry as a professional programmer and have many projects
 </p>
 
 <p>
-    I've produced many games and projects which you can grab from my repositories here or, from <a href="https://jdsherbert.itch.io"> Itch.io! </a>
+    I've produced many games and projects which you can grab from my repositories here, or from <a href="https://jdsherbert.itch.io"> Itch.io! </a>
 </p>
 <!-- my summary end -->
 
