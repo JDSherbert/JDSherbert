@@ -50,10 +50,10 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <img height="40" img width="40" img src="https://cdn.simpleicons.org/c" href="https://github.com/JDSherbert"/>
-  <img height="40" img width="40" img src="https://cdn.simpleicons.org/c++" href="https://github.com/JDSherbert" />
-  <img height="40" img width="40" img src="https://cdn.simpleicons.org/csharp" href="https://github.com/JDSherbert"/>
-  <img height="40" img width="40" img src="https://cdn.simpleicons.org/python" href="https://github.com/JDSherbert"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/c" href="https://github.com/JDSherbert"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/c++" href="https://github.com/JDSherbert" />
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp" href="https://github.com/JDSherbert"/>
+  <img height="40" img width="40" src="https://cdn.simpleicons.org/python" href="https://github.com/JDSherbert"/>
 </div>
 <!-- Skills Icons end -->
 
