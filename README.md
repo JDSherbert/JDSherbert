@@ -96,7 +96,7 @@
             </th>
             <th>
                 <a href="https://www.github.com/jdsherbert">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/purple" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
                 </a>
             </th>
             <th>
@@ -126,7 +126,7 @@
             </th>
             <th>
                 <a href="https://www.audius.co/jdsherbert">
-                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy/white" width="35px">
+                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy/purple" width="35px">
                 </a>
             </th>
             <th>
