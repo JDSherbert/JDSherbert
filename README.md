@@ -70,62 +70,62 @@
         <tr>
             <th>
                 <a href=https://linktr.ee/JDSherbert>
-                    <img alt="linktree icon" src="https://cdn.simpleicons.org/linktree" width="35px">
+                    <img alt="linktree icon" src="https://cdn.simpleicons.org/linktree" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://twitter.com/JDSherbert_">
-                    <img alt="twitter icon" src="https://cdn.simpleicons.org/twitter" width="35px">
+                    <img alt="twitter icon" src="https://cdn.simpleicons.org/twitter" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://www.linkedin.com/in/jdsherbert">
-                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="35px">
+                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/jdsherbert">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://www.youtube.com/@JDSherbert">
-                    <img alt="youtube icon" src="https://cdn.simpleicons.org/youtube" width="35px">
+                    <img alt="youtube icon" src="https://cdn.simpleicons.org/youtube" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://reddit.com/user/JDSherbert">
-                    <img alt="reddit icon" src="https://cdn.simpleicons.org/reddit" width="35px">
+                    <img alt="reddit icon" src="https://cdn.simpleicons.org/reddit" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://jdsherbert.bandcamp.com/">
-                    <img alt="bandcamp icon" src="https://cdn.simpleicons.org/bandcamp" width="35px">
+                    <img alt="bandcamp icon" src="https://cdn.simpleicons.org/bandcamp" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://soundcloud.com/jdsherbert">
-                    <img alt="soundcloud icon" src="https://cdn.simpleicons.org/soundcloud" width="35px">
+                    <img alt="soundcloud icon" src="https://cdn.simpleicons.org/soundcloud" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://audiomack.com/jdsherbert">
-                    <img alt="audiomack icon" src="https://cdn.simpleicons.org/audiomack" width="35px">
+                    <img alt="audiomack icon" src="https://cdn.simpleicons.org/audiomack" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://www.audius.co/jdsherbert">
-                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy/purple" width="35px">
+                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy/purple" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://discord.gg/JDdecZ3">
-                    <img alt="discord icon" src="https://cdn.simpleicons.org/discord" width="35px">
+                    <img alt="discord icon" src="https://cdn.simpleicons.org/discord" width="36px">
                 </a>
             </th>
             <th>
                 <a href="https://stackoverflow.com/users/20104433/jdsherbert">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow" width="36px">
                 </a>
             </th>
         </tr>
