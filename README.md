@@ -50,7 +50,7 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <a href = "https://docs.unrealengine.com/5.1/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unreal"> </a>
+  <a href = "https://docs.unrealengine.com/5.1/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unrealengine"> </a>
   <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"> </a>
   <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
