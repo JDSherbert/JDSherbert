@@ -29,7 +29,7 @@
 <br/>
 
 <!-- Badges Start -->
-[![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
+[![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&logo=WakaTime&logoColor=white&color=black&labelColor=00AEEF)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
 [![twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/JDSherbert_)
 
 
