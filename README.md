@@ -208,7 +208,15 @@ I work in the games industry as a professional programmer and have many projects
   </a>
 <!-- STATS END -->
 <!--START_SECTION:waka-->
-    
+
+```txt
+C#          34 hrs 39 mins  ██████████████████████▒░░   89.57 %
+INI         2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+C++         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+uproject    39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+XML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 
