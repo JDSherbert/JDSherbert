@@ -36,6 +36,8 @@
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=Discord&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
 <!-- Badges End -->
 
+[![hits](https://hits.jdsherbert.io/github/jdsherbert/hits-badge.svg)](https://hits.jdsherbert.io)
+
 <br/>
 
 <!-- Skill Icons -->
