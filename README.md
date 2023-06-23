@@ -29,9 +29,10 @@
 <br/>
 
 <!-- Badges Start -->
-<div align="center">
     ![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
     ![twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/JDSherbert_)
+<div align="center">
+
   <img style="margin-right: 6px" alt="wakatime badge" 
        src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg" 
        href="https://github.com/JDSherbert"/>
