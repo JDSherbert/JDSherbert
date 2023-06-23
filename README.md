@@ -31,7 +31,7 @@
 <!-- Badges Start -->
 [![WakaTime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
 [![Twitter](https://img.shields.io/twitter/follow/logo=twitter&JDSherbert_?label=follow&color=blue&style=for-the-badge&logo=Twitter&logoColor=white&color=black&labelColor=blue)](https://twitter.com/JDSherbert_)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=Subscribe&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=Subscribe&label=Karma&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&labelColor=orange)](https://reddit.com/user/JDSherbert)
 
 <div align="center">
