@@ -36,7 +36,7 @@
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=Discord&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
 <!-- Badges End -->
 
-[![hits](https://hits.deltapapa.io/github/JDSherbert/hits-badge.svg)](https://hits.deltapapa.io)
+[![Hits](https://hits.deltapapa.io/github/JDSherbert/hits-badge.svg?style=for-the-badge)](https://github.com/JDSherbert)
 
 <br/>
 
