@@ -207,6 +207,9 @@ I work in the games industry as a professional programmer and have many projects
     <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
 <!-- STATS END -->
+<!--START_SECTION:waka-->
+    
+<!--END_SECTION:waka-->
 </div>
 
 <br/>
