@@ -34,22 +34,6 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=Subscribe&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&label=Karma&labelColor=orange)](https://reddit.com/user/JDSherbert)
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=Discord&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
-
-
-<div align="center">
-
-  <img style="margin-right: 6px" alt="wakatime badge" 
-       src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg" 
-       href="https://github.com/JDSherbert"/>
-  <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
-  <!-- img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert" -->
-  <img style="margin-right: 6px" alt="Hits" 
-       src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdsherbert1212%2Fhit-counter" 
-       href="https://github.com/JDSherbert">
-  <img style="margin-right: 6px" alt="Views" 
-       src="https://komarev.com/ghpvc/?username=JDSherbert" 
-       href="https://github.com/JDSherbert">
-</div>
 <!-- Badges End -->
 
 <br/>
