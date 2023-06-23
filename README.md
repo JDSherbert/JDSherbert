@@ -181,7 +181,6 @@ I work in the games industry as a professional programmer and have many projects
 <div align="center"> 
     <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=278&lines=%F0%9F%93%8A+JDSherbert's+Github+Stats" alt="JDSherbert's Github Stats" /></a>
 </div>
-
 <br/>
 <!-- TROPHY -->
 <div align="center">
@@ -197,6 +196,10 @@ I work in the games industry as a professional programmer and have many projects
   </a>
 <!-- STREAK END -->
 <!-- STATS -->
+  <a href="htps://github.com/JDSherbert">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme={theme_name}"
+alt="JDSherbert's Profile Details" /></a>
+    
   <a href="https://github.com/JDSherbert">
     <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
