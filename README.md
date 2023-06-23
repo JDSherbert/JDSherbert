@@ -30,6 +30,10 @@
 
 <!-- Badges Start -->
 <div align="center">
+  <a href="https://jdsherbert.itch.io/"> 
+    <img style="margin-right: 6px" alt="wakatime badge" 
+         src="https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime&logoColor=white&color=black&labelColor=000000"/>
+  </a>  
   <img style="margin-right: 6px" alt="wakatime badge" 
        src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg" 
        href="https://github.com/JDSherbert"/>
