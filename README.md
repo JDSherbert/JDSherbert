@@ -197,7 +197,7 @@ I work in the games industry as a professional programmer and have many projects
 <!-- STREAK END -->
 <!-- STATS -->
   <a href="htps://github.com/JDSherbert">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme={theme_name}"
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
 alt="JDSherbert's Profile Details" /></a>
     
   <a href="https://github.com/JDSherbert">
