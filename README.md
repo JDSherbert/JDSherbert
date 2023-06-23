@@ -33,7 +33,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/logo=twitter&JDSherbert_?label=follow&color=blue&style=for-the-badge&logo=Twitter&logoColor=white&color=black&labelColor=blue)](https://twitter.com/JDSherbert_)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=Subscribe&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&label=Karma&labelColor=orange)](https://reddit.com/user/JDSherbert)
-[![Discord](img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=white&color=black&label=Discord&labelColor=5865F2)](https://discord.gg/JDdecZ3)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JDdecZ3)
 
 <div align="center">
 
