@@ -23,6 +23,11 @@
   <img src="https://d1fdloi71mui9q.cloudfront.net/SrHStffzRKeQ5nfszKFd_OGjJYgdVVRKz1DZc">
   <h1> JDSherbert </h1>
   <h4> Programmer + Audio person. Free gifts from time to time! </h4>
+
+<a href="htps://github.com/JDSherbert">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
+alt="JDSherbert's Profile Details" /></a>
+
 </div>
 <!-- Intro Section end -->
 
@@ -196,10 +201,6 @@ I work in the games industry as a professional programmer and have many projects
   </a>
 <!-- STREAK END -->
 <!-- STATS -->
-  <a href="htps://github.com/JDSherbert">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
-alt="JDSherbert's Profile Details" /></a>
-    
   <a href="https://github.com/JDSherbert">
     <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
