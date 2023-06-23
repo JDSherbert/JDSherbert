@@ -30,12 +30,11 @@
 
 <!-- Badges Start -->
 <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
+    [![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
+    [![twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/JDSherbert_)
   <img style="margin-right: 6px" alt="wakatime badge" 
        src="https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg" 
        href="https://github.com/JDSherbert"/>
-  <!-- <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>-->
-  <!-- <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/> -->
   <!-- <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"> -->
   <!-- img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert" -->
   <img style="margin-right: 6px" alt="Hits" 
