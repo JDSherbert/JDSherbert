@@ -29,8 +29,9 @@
 <br/>
 
 <!-- Badges Start -->
-[![wakatime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&logo=WakaTime&logoColor=white&color=black&labelColor=00AEEF)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
-[![twitter](https://img.shields.io/twitter/follow/logo=twitter&JDSherbert_?label=followers&color=blue&style=for-the-badge&logo=Twitter&logoColor=white&color=black&labelColor=blue)](https://twitter.com/JDSherbert_)
+[![WakaTime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&logo=WakaTime&logoColor=white&color=black&labelColor=00AEEF)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
+[![Twitter](https://img.shields.io/twitter/follow/logo=twitter&JDSherbert_?label=followers&color=blue&style=for-the-badge&logo=Twitter&logoColor=white&color=black&labelColor=blue)](https://twitter.com/JDSherbert_)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&labelColor=red)](https://www.youtube.com/@JDSherbert)
 
 
 <div align="center">
