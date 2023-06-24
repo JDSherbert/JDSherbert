@@ -24,10 +24,6 @@
   <h1> JDSherbert </h1>
   <h4> Programmer + Audio person. Free gifts from time to time! </h4>
 
-<a href="htps://github.com/JDSherbert">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
-alt="JDSherbert's Profile Details" /></a>
-
 </div>
 <!-- Intro Section end -->
 
@@ -201,12 +197,15 @@ Let's collaborate and embark on an unforgettable audio journey together! Feel fr
   </a>
 <!-- STREAK END -->
 <!-- STATS -->
+    <a href="htps://github.com/JDSherbert">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
+alt="JDSherbert's Profile Details" /></a>
+    
   <a href="https://github.com/JDSherbert">
     <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
 <!-- STATS END -->
 <!--START_SECTION:waka-->
-
 ```txt
 C#          32 hrs 50 mins  ██████████████████████▒░░   88.84 %
 C++         2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
@@ -214,7 +213,6 @@ C           1 hr 18 mins    █░░░░░░░░░░░░░░░░�
 XML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Csproj      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
-
 <!--END_SECTION:waka-->
 </div>
 
