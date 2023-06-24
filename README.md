@@ -169,16 +169,15 @@ alt="JDSherbert's Profile Details" /></a>
 
 <!-- my summary start -->
 <p> 
-Hi. My name is JD! I make music, sounds, and software, specifically games, game engines and audio plugins. 
-I work in the games industry as a professional programmer and have many projects under my belt! I work with a variety of different technologies in order to bring an immersive world of audio for you to experience. I'm commonly using Unreal Engine, Unity, FMOD and Wwise on a day to day basis.
-</p>
+I'm a passionate audio professional with expertise in Wwise, FMOD, JUCE, Unity, and Unreal Engine. 🎮💡
 
-<p>
-    I’ve had the privilege of working alongside incredibly talented personnel in the games industry and have learned a lot of awesome skills and techniques for implementing and creating audio + tools for general gameplay as well as prototyping new features.
-</p>
+With a deep understanding of interactive audio systems and immersive sound design, I thrive on bringing virtual worlds to life through carefully crafted soundscapes. 🌍🔊
 
-<p>
-    I've produced many games and projects which you can grab from my repositories here, or from <a href="https://jdsherbert.itch.io"> Itch.io! </a>
+From developing complex audio pipelines to implementing dynamic audio solutions, I have a proven track record of creating captivating auditory experiences across various platforms and genres. 🎶🎮
+
+Combining technical prowess with a keen ear for detail, I love pushing the boundaries of interactive audio to enhance gameplay, heighten emotions, and transport users into extraordinary realms. 🚀🎵
+
+Let's collaborate and embark on an unforgettable audio journey together! Feel free to explore my projects and get in touch. 🎧✉️
 </p>
 <!-- my summary end -->
 
