@@ -209,11 +209,11 @@ Let's collaborate and embark on an unforgettable audio journey together! Feel fr
 <!--START_SECTION:waka-->
 
 ```txt
-C#          34 hrs 39 mins  ██████████████████████▒░░   89.57 %
-INI         2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-C++         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-uproject    39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-XML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+C#          32 hrs 50 mins  ██████████████████████▒░░   88.84 %
+C++         2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+C           1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+XML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Csproj      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
