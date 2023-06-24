@@ -34,11 +34,13 @@ alt="JDSherbert's Profile Details" /></a>
 <br/>
 
 <!-- Badges Start -->
+<div align="center"> 
 [![Twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=Follow&style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=000000)](https://twitter.com/JDSherbert_)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=Subscribe&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&label=Karma&labelColor=orange)](https://reddit.com/user/JDSherbert)
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=Discord&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
 [![WakaTime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
+</div>
 <!-- Badges End -->
 
 -----------------------------------------------------------------------
