@@ -180,9 +180,6 @@ Combining technical prowess with a keen ear for detail, I love pushing the bound
 Let's collaborate and embark on an unforgettable audio journey together! Feel free to explore my projects and get in touch. 🎧✉️
 </p>
 <!-- my summary end -->
-
-<br/>
-<br/>
 <br/>
 <br/>
 
