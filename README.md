@@ -55,7 +55,7 @@
   <a href = "hhttps://www.audiokinetic.com/en/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/wwise/white"></a> 
   <a href = "hhttps://www.fmod.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/fmod/white"></a> 
   <a href = "https://docs.unrealengine.com/5.1/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unrealengine/white"></a> 
-  <a href = "https://docs.unity.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unity/white"> </a> 
+  <a href = "https://docs.unity.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unity/white"></a> 
   <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"></a> 
   <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"></a>
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"></a>
