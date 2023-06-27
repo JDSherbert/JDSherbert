@@ -177,7 +177,6 @@ Let's collaborate and embark on an unforgettable audio journey together! Feel fr
 </p>
 <!-- my summary end -->
 <br/>
-<br/>
 
 <!-- GITHUB STATS -->
 <div align="center"> 
