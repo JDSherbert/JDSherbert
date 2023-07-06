@@ -165,9 +165,9 @@
 
 <!-- my summary start -->
 <p> 
-Welcome to my Github repository! I am a highly skilled and passionate game developer and audio engineer with extensive experience in the AAA game industry. With a keen understanding of both the technical and creative aspects of game development, I strive to create immersive and captivating gaming experiences. 
+Welcome to my Github repository! I am a highly skilled and passionate Audio Engineer with extensive experience in the AAA game industry. With a keen understanding of both the technical and creative aspects of game development, I strive to create immersive and captivating gaming experiences. 
     
-Through this platform, I aim to showcase my diverse skill set, including expertise in sound design, music composition, programming, and game design. By exploring my projects, you will gain insight into my meticulous attention to detail, innovative problem-solving abilities, and my commitment to delivering top-quality work. I invite you to delve into my repository and checkout my work + contributions to the gaming world.
+I invite you to delve into my repository and checkout my work + contributions to the world of game audio!
 </p>
 <!-- my summary end -->
 <br/>
