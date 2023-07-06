@@ -165,15 +165,7 @@
 
 <!-- my summary start -->
 <p> 
-I'm a passionate audio professional with expertise in Wwise, FMOD, JUCE, Unity, and Unreal Engine. 🎮💡
-
-With a deep understanding of interactive audio systems and immersive sound design, I thrive on bringing virtual worlds to life through carefully crafted soundscapes. 🌍🔊
-
-From developing complex audio pipelines to implementing dynamic audio solutions, I have a proven track record of creating captivating auditory experiences across various platforms and genres. 🎶🎮
-
-Combining technical prowess with a keen ear for detail, I love pushing the boundaries of interactive audio to enhance gameplay, heighten emotions, and transport users into extraordinary realms. 🚀🎵
-
-Let's collaborate and embark on an unforgettable audio journey together! Feel free to explore my projects and get in touch. 🎧✉️
+Game Developer + Audio Person. Free gifts from time to time!
 </p>
 <!-- my summary end -->
 <br/>
