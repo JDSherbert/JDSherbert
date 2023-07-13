@@ -202,9 +202,10 @@ alt="JDSherbert's Profile Details" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
-C#          36 hrs 16 mins  ████████████████████████▒   97.42 %
-XML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-UnityYaml   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+C#              33 hrs 13 mins  ████████████████████████▒   97.16 %
+XML             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+UnityYaml       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Solution File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
