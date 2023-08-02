@@ -22,7 +22,7 @@
 <div align="center"> 
   <img src="https://d1fdloi71mui9q.cloudfront.net/SrHStffzRKeQ5nfszKFd_OGjJYgdVVRKz1DZc">
   <h1> JDSherbert </h1>
-  <h4> Programmer + Audio person. Free gifts from time to time! </h4>
+  <h4> Audio Programmer. Occasionally makes noises that sound good! </h4>
 
 </div>
 <!-- Intro Section end -->
