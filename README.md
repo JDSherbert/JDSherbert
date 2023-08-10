@@ -202,8 +202,8 @@ alt="JDSherbert's Profile Details" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
-C#    14 hrs 31 mins  ███████████████████████▓░   95.32 %
-XML   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+C#    18 hrs 33 mins  █████████████████████████   99.71 %
+XML   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
