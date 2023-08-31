@@ -202,11 +202,11 @@ alt="JDSherbert's Profile Details" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
-C#               18 hrs 12 mins  ████████████████████████▒   97.63 %
-XML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Solution File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#               25 hrs 20 mins  █████████████████████████   99.65 %
+XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Solution File    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
