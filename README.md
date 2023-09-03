@@ -202,8 +202,8 @@ alt="JDSherbert's Profile Details" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
-C#               24 hrs 53 mins  █████████████████████████   99.83 %
-ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C#               28 hrs 43 mins  █████████████████████████   99.85 %
+ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Assembly         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
