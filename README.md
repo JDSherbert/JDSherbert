@@ -262,7 +262,6 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=121011)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=black&labelColor=FC6D26)
 
------------------------------------------------
 <!-- TOOLS AND FRAMEWORKS END -->
   
 <!-- DAW AND AUDIO -->
@@ -283,8 +282,6 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 ![Wwise](https://img.shields.io/badge/Wwise-00549F?style=for-the-badge&logo=wwise&logoColor=white&color=black&labelColor=00549F) 
 ![FMOD](https://img.shields.io/badge/FMOD-0E1128.svg?style=for-the-badge&logo=fmod&logoColor=white&color=black&labelColor=0E1128) 
 ![OpenAL](https://img.shields.io/badge/OpenAL-darkred.svg?style=for-the-badge&logo=anilist&logoColor=white&color=black&labelColor=darkred) 
-
------------------------------------------------
   
 <!-- DAW AND AUDIO END -->
 
