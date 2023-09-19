@@ -164,8 +164,8 @@ I invite you to delve into my repository and checkout my work + contributions to
 <br/>
 
 <!-- TOP REPOSITORIES -->
-<div align="center"> 
 #### My Top Repositories
+<div align="center"> 
   <a href="https://github.com/JDSherbert/Wwise-Soundbank-XML-Parser">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Wwise-Soundbank-XML-Parser&theme=react" />
   </a>
