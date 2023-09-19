@@ -154,7 +154,7 @@
 
 <!-- my summary start -->
 <p> 
-Welcome to my Github repository! I am a highly skilled and passionate Audio Engineer with extensive experience in the AAA game industry. With a keen understanding of both the technical and creative aspects of game development, I strive to create immersive and captivating gaming experiences. 
+Welcome to my Github repository! I am a highly skilled and passionate Audio Engineer with extensive experience in the AAA and VR game industries. With a keen understanding of both the technical and creative aspects of game development, I strive to create immersive and captivating gaming experiences. 
     
 I invite you to delve into my repository and checkout my work + contributions to the world of game audio!
 </p>
