@@ -31,7 +31,6 @@
 
 <!-- Badges Start -->
 <div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
     
 [![Twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=@JDSherbert_&style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=000000)](https://twitter.com/JDSherbert_)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=JDSherbert&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
@@ -117,6 +116,7 @@
 <!-- Badges End -->
 
 -----------------------------------------------------------------------
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
 
 <!-- Skill Icons -->
 <div align="center">
