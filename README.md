@@ -210,14 +210,6 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-<br/>
-<!-- LANGUAGES -->
-<div align="center">
-  <a href="https://github.com/JDSherbert">
-    <img width=330 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=JDSherbert&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-<!-- LANGUAGES END -->
-
 
 <br/>
 <br/>
