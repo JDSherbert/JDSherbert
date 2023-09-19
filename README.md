@@ -131,10 +131,10 @@
 <!-- Skills Icons end -->
 
 <!-- weather icon start -->
-
 <a href="https://weather.com/en-GB/weather/today/l/51.75,-1.26?par=google">
 <img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
 <h5 align="right" margin=100px> My Current Weather... </h5>
+
 ----------------------------------------------- 
 <!-- weather icon end -->
 
