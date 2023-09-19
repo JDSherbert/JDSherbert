@@ -52,22 +52,16 @@
 
 <!-- Skill Icons -->
 <div align="center">
-  <a href = "hhttps://www.audiokinetic.com/en/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/wwise/white"></a>
-  <a href = "hhttps://www.fmod.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/fmod/white"></a>
-  <a href = "https://docs.unrealengine.com/5.1/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unrealengine/white"></a>
-  <a href = "https://docs.unity.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unity/white"></a>
-  <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"></a>
-  <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"></a>
-  <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"></a>
-  <a href = "https://docs.python.org/3"> <img height="40" img width="40" src="https://cdn.simpleicons.org/python"></a>
-  <a href = "https://haxe.org/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/haxe"></a>
 
-<code><a href = "hhttps://www.audiokinetic.com/en/"> <img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
+<code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
+<code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
+<code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
+<code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
+<code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="40" img width="40" src="https://cdn.simpleicons.org/c++"></a></code>    
+<code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"></a></code>    
+<code><a href = "https://docs.python.org/3"> <img height="40" img width="40" src="https://cdn.simpleicons.org/python"></a></code>   
+<code><a href = "https://haxe.org/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/haxe"></a></code>   
 
 </div>
 <!-- Skills Icons end -->
