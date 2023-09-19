@@ -38,43 +38,6 @@
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=%20&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
 [![WakaTime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
 
-</div>
-<!-- Badges End -->
-
------------------------------------------------------------------------
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
-
------------------------------------------------------------------------
-
-
-<br/>
-
-<!-- Skill Icons -->
-<div align="center">
-
-<code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
-<code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
-<code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
-<code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
-<code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
-<code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
-<code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
-<code><a href = "https://docs.python.org/3"><img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
-<code><a href = "https://haxe.org/"><img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
-
-</div>
-<!-- Skills Icons end -->
-
-<!-- weather icon start -->
-
-<a href="https://weather.com/en-GB/weather/today/l/51.75,-1.26?par=google">
-<img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
-<h5 align="right" margin=100px> My Current Weather... </h5>
-
------------------------------------------------ 
-<!-- weather icon end -->
-
 <!-- SOCIAL MEDIA LINKS -->
 <table align="center">
     <thead align="center">
@@ -148,6 +111,45 @@
     </thead>
 </table>
 <!-- SOCIAL MEDIA LINKS END -->
+
+
+</div>
+<!-- Badges End -->
+
+-----------------------------------------------------------------------
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
+
+-----------------------------------------------------------------------
+
+
+<br/>
+
+<!-- Skill Icons -->
+<div align="center">
+
+<code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
+<code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
+<code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
+<code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
+<code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
+<code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
+<code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
+<code><a href = "https://docs.python.org/3"><img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
+<code><a href = "https://haxe.org/"><img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
+
+</div>
+<!-- Skills Icons end -->
+
+<!-- weather icon start -->
+
+<a href="https://weather.com/en-GB/weather/today/l/51.75,-1.26?par=google">
+<img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
+<h5 align="right" margin=100px> My Current Weather... </h5>
+
+----------------------------------------------- 
+<!-- weather icon end -->
+
 
 <!-- Welcome Text -->
 <a href="https://github.com/JDSherbert">
