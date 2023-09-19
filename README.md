@@ -60,6 +60,7 @@
   <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"></a>
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"></a>
   <a href = "https://docs.python.org/3"> <img height="40" img width="40" src="https://cdn.simpleicons.org/python"></a>
+  <a href = "https://haxe.org/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/haxe"></a>
 </div>
 <!-- Skills Icons end -->
 
