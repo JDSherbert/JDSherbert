@@ -231,11 +231,7 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <br/>
 
 <!-- GRAPH -->
-<div align="center">
-  <a href="https://github.com/JDSherbert">
-    <img alt="JDSherbert Commit Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JDSherbert&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
-  </a>
-</div>
+  ![Snake animation](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake.svg)
 <!-- GRAPH END -->
 <!-- GITHUB STATS END -->
 
