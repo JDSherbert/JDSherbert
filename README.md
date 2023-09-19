@@ -231,9 +231,9 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <br/>
 <br/>
 
-<!-- GRAPH -->
-  ![Snake](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake2.svg)
-<!-- GRAPH END -->
+<!-- SNAKE GRAPH -->
+![Snake](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake2.svg)
+<!-- SNAKE GRAPH END -->
 <!-- GITHUB STATS END -->
 
 <br/>
