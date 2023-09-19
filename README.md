@@ -163,8 +163,8 @@ I invite you to delve into my repository and checkout my work + contributions to
 
 <br/>
 
-<!-- TOP REPOSITORIES -->
-#### My Top Repositories
+<!-- FEATURED REPOSITORIES -->
+#### Featured Repositories
 <div align="center"> 
   <a href="https://github.com/JDSherbert/Wwise-Soundbank-XML-Parser">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Wwise-Soundbank-XML-Parser&theme=react" />
@@ -173,7 +173,7 @@ I invite you to delve into my repository and checkout my work + contributions to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Sherbert-Engine&theme=react" />
   </a>
 </div>
-<!-- TOP REPOSITORIES END -->
+<!-- FEATURED REPOSITORIES END -->
 
 <!-- GITHUB STATS -->
 <div align="center"> 
