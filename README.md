@@ -65,7 +65,6 @@
 
 </div>
 <!-- Skills Icons end -->
-<br/>
 
 <!-- weather icon start -->
 
