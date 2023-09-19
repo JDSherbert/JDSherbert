@@ -338,9 +338,10 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <!-- wave GIF end -->
   
 -----------------------------------------------
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
-  
+
 <div align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
+    
   <a href="https://github.com/JDSherbert"> 
     <img style="margin-right: 6px" alt="Github Follow"src="https://img.shields.io/github/followers/jdsherbert?style=social">
   </a>
