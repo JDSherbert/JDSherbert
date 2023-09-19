@@ -32,7 +32,7 @@
 <!-- Badges Start -->
 <div align="center">
     
-[![Twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=JDSherbert_&style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=000000)](https://twitter.com/JDSherbert_)
+[![Twitter](https://img.shields.io/twitter/follow/JDSherbert_?label=@JDSherbert_&style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=000000)](https://twitter.com/JDSherbert_)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=JDSherbert&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&label=u/JDSherbert&labelColor=orange)](https://reddit.com/user/JDSherbert)
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=%20&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
@@ -61,6 +61,22 @@
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"></a>
   <a href = "https://docs.python.org/3"> <img height="40" img width="40" src="https://cdn.simpleicons.org/python"></a>
   <a href = "https://haxe.org/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/haxe"></a>
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 </div>
 <!-- Skills Icons end -->
 <br/>
