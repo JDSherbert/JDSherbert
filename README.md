@@ -160,7 +160,6 @@ I invite you to delve into my repository and checkout my work + contributions to
 </p>
 <!-- my summary end -->
 
-
 <br/>
 
 <!-- FEATURED REPOSITORIES -->
@@ -173,6 +172,7 @@ I invite you to delve into my repository and checkout my work + contributions to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Sherbert-Engine&theme=react" />
   </a>
 </div>
+
 ----------------------------------------------- 
 <!-- FEATURED REPOSITORIES END -->
 
