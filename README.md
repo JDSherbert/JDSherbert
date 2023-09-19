@@ -121,7 +121,6 @@
 
 <!-- Skill Icons -->
 <div align="center">
-
 <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
 <code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
 <code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
@@ -131,7 +130,6 @@
 <code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
 <code><a href = "https://docs.python.org/3"><img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
 <code><a href = "https://haxe.org/"><img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
-
 </div>
 <!-- Skills Icons end -->
 
