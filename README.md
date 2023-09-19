@@ -172,7 +172,7 @@ I invite you to delve into my repository and checkout my work + contributions to
   <a href="https://github.com/JDSherbert/Sherbert-Engine">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Sherbert-Engine&theme=react" />
   </a>
-  ----------
+  ----------------------------------------------- 
 </div>
 <!-- FEATURED REPOSITORIES END -->
 
