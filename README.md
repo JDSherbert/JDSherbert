@@ -60,8 +60,8 @@
 <code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
 <code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
 <code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
-<code><a href = "https://docs.python.org/3"> <img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
-<code><a href = "https://haxe.org/"> <img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
+<code><a href = "https://docs.python.org/3"><img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
+<code><a href = "https://haxe.org/"><img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
 
 </div>
 <!-- Skills Icons end -->
