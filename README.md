@@ -44,7 +44,6 @@
 -----------------------------------------------------------------------
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
-![Visitor Count](https : //profile-counter.glitch.me/JDSherbert/count.svg)
 
 -----------------------------------------------------------------------
 
@@ -64,6 +63,16 @@
   <a href = "https://haxe.org/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/haxe"></a>
 </div>
 <!-- Skills Icons end -->
+<br/>
+
+<!-- weather icon start -->
+
+<a href="https://weather.com/en-GB/weather/today/l/51.75,-1.26?par=google">
+<img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
+<h5 align="right" margin=100px> My Current Weather... </h5>
+
+----------------------------------------------- 
+<!-- weather icon end -->
 
 <!-- SOCIAL MEDIA LINKS -->
 <table align="center">
@@ -138,16 +147,6 @@
     </thead>
 </table>
 <!-- SOCIAL MEDIA LINKS END -->
-<br/>
-
-<!-- weather icon start -->
-
-<a href="https://weather.com/en-GB/weather/today/l/51.75,-1.26?par=google">
-<img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
-<h5 align="right" margin=100px> My Current Weather... </h5>
-
------------------------------------------------ 
-<!-- weather icon end -->
 
 <!-- Welcome Text -->
 <a href="https://github.com/JDSherbert">
