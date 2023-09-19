@@ -112,18 +112,12 @@
 </table>
 <!-- SOCIAL MEDIA LINKS END -->
 
-
 </div>
 <!-- Badges End -->
 
 -----------------------------------------------------------------------
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
-
------------------------------------------------------------------------
-
-
-<br/>
 
 <!-- Skill Icons -->
 <div align="center">
