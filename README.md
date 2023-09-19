@@ -65,11 +65,6 @@
 </div>
 <!-- Skills Icons end -->
 
-<!-- LINKS -->
-<details>
-    <summary> 🔗 LINKS </summary>
-<br/>
-
 <!-- SOCIAL MEDIA LINKS -->
 <table align="center">
     <thead align="center">
@@ -105,6 +100,11 @@
                 </a>
             </th>
             <th>
+                <a href="https://open.spotify.com/artist/3L3zbyWOVNwUiJVm5yvaKn">
+                    <img alt="spotify icon" src="https://cdn.simpleicons.org/spotify" width="36px">
+                </a>
+            </th>
+            <th>
                 <a href="https://jdsherbert.bandcamp.com/">
                     <img alt="bandcamp icon" src="https://cdn.simpleicons.org/bandcamp" width="36px">
                 </a>
@@ -137,10 +137,7 @@
         </tr>
     </thead>
 </table>
-</details>
 <!-- SOCIAL MEDIA LINKS END -->
-<!-- LINKS END -->
-
 <br/>
 
 <!-- weather icon start -->
