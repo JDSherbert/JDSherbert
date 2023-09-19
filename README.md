@@ -232,7 +232,7 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <br/>
 
 <!-- GRAPH -->
-  ![Snake animation](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake.svg)
+  ![Snake](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake2.svg)
 <!-- GRAPH END -->
 <!-- GITHUB STATS END -->
 
