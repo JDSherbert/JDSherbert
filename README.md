@@ -223,11 +223,6 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <br/>
 
 <!-- TOOLS AND FRAMEWORKS -->
-<details>
-    <summary> 
-        <b> 🔧 MY PREFERRED TECH AND FRAMEWORKS </b> 
-    </summary>
-
 -----------------------------------------------
 
 #### IDE:
@@ -262,15 +257,9 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=black&labelColor=FC6D26)
 
 -----------------------------------------------
-  
-</details>
 <!-- TOOLS AND FRAMEWORKS END -->
   
 <!-- DAW AND AUDIO -->
-<details>
-    <summary> 
-        <b> 🔊 MY PREFERRED AUDIO TOOLS </b> 
-    </summary>
   
 -----------------------------------------------
 
@@ -290,19 +279,13 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 ![OpenAL](https://img.shields.io/badge/OpenAL-darkred.svg?style=for-the-badge&logo=anilist&logoColor=white&color=black&labelColor=darkred) 
 
 -----------------------------------------------
-</details>
   
 <!-- DAW AND AUDIO END -->
 
 <!-- ONLINE STORES -->
-<details>
-    <summary> 
-        <b> 🛒 MY ONLINE STORES </b> 
-    </summary>
-
 -----------------------------------------------
 
-#### Online Store:
+#### Online Stores:
 
 <div align="center">
   <a href="https://jdsherbert.itch.io/"> 
@@ -336,8 +319,6 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 </div>
   
 -----------------------------------------------
-
-</details>
 <!-- ONLINE STORES END -->
 
   
