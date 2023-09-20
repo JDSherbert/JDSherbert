@@ -135,6 +135,8 @@ Colours:
 </div>
 <!-- Skills Icons end -->
 
+-----------------------------------------------------------------------
+
 <!-- Welcome Text -->
 <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=28&pause=1000&repeat=false&width=435&lines=%F0%9F%9A%80+Welcome+to+my+Github+Profile!" alt="Typing SVG" /></a>
 <!-- Welcome Text End -->
