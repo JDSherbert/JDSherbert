@@ -196,7 +196,7 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!-- STREAK END -->
 <!-- STATS -->
     <a href="https://github.com/JDSherbert">
-      <img width=500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
+      <img width=1000 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
 alt="JDSherbert's Profile Details" /></a>
     
   <a href="https://github.com/JDSherbert"><img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="JDSherbert's github stats" alt="JDSherbert's Stats" /></a>
