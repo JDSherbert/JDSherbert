@@ -191,7 +191,7 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!-- STREAK -->
 <div align="center">
   <a href="https://github.com/JDSherbert">
-    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="JDSherbert's Streak" />
+    <img width=1000 src="https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="JDSherbert's Streak" />
   </a>
 <!-- STREAK END -->
 <!-- STATS -->
