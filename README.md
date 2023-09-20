@@ -191,7 +191,7 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!-- STREAK -->
 <div align="center">
   <a href="https://github.com/JDSherbert">
-    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="JDSherbert's Streak" />
+    <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="JDSherbert's Streak" />
   </a>
 <!-- STREAK END -->
 <!-- STATS -->
@@ -199,10 +199,6 @@ I invite you to delve into my repository and checkout my work + contributions to
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"
 alt="JDSherbert's Profile Details" /></a>
     
-  <a href="https://github.com/JDSherbert">
-    <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
-  </a>
-
   <a href="https://github.com/JDSherbert"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="JDSherbert's github stats" /></a>
   <a href="https://github.com/JDSherbert"><img width=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&layout=compact&theme=react&hide_border=true" /></a>
 <!-- STATS END -->
