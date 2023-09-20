@@ -203,9 +203,12 @@ alt="JDSherbert's Profile Details" /></a>
     <img width=410 src="https://github-readme-stats-mu-jet.vercel.app/api?username=JDSherbert&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&layout=compact&theme=react&hide_border=true" /></a> |
+  <a href="https://github.com/JDSherbert">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /> 
+  </a>
+  <a href="https://github.com/JDSherbert">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&layout=compact&theme=react&hide_border=true" />
+  </a>
 <!-- STATS END -->
 <!--START_SECTION:waka-->
 
