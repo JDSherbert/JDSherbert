@@ -215,16 +215,13 @@ JSON            0 secs          ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-
-<br/>
 <br/>
 
 <!-- SNAKE GRAPH -->
-![Snake](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake2.svg)
+[![Snake](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake2.svg)](https://github.com/JDSherbert)
 <!-- SNAKE GRAPH END -->
 <!-- GITHUB STATS END -->
 
-<br/>
 <br/>
 
 <!-- TOOLS AND FRAMEWORKS -->
