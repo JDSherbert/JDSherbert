@@ -114,6 +114,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
 
 <!-- Skill Icons -->
+<div>
 <div align="left">
     <h5 align="left"> Proficiencies: </h5>
     <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
@@ -133,7 +134,8 @@
 <img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
 <h5 align="right" margin=100px> My Current Weather... </h5>
 
------------------------------------------------ 
+-----------------------------------------------
+</div>
 <!-- weather icon end -->
 
 
