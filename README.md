@@ -93,11 +93,6 @@
                 </a>
             </th>
             <th>
-                <a href="https://www.audius.co/jdsherbert">
-                    <img alt="audius icon" src="https://cdn.simpleicons.org/alchemy/purple" width="36px">
-                </a>
-            </th>
-            <th>
                 <a href="https://discord.gg/JDdecZ3">
                     <img alt="discord icon" src="https://cdn.simpleicons.org/discord" width="36px">
                 </a>
@@ -119,6 +114,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
 
 <!-- Skill Icons -->
+<h5 align="left"> My Stack: </h5>
 <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
 <code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
 <code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
