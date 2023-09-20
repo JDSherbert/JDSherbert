@@ -201,12 +201,16 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!-- STATS END -->
 <!--START_SECTION:waka-->
 
-```txt
-C#              25 hrs 32 mins  █████████████████████████   99.62 %
-Haxe            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-XML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Csproj          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```rust
+From: 19 May 2022 - To: 19 September 2023
+
+Total Time: 1,157 hrs 27 mins
+
+C#                     781 hrs 4 mins  >>>>>>>>>>>>>>>>>--------   67.10 %
+C++                    245 hrs 10 mins >>>>>--------------------   21.06 %
+Objective-C            56 hrs 48 mins  >------------------------   04.88 %
+C                      52 hrs 42 mins  >------------------------   04.53 %
+Other                  6 hrs 36 mins   -------------------------   00.57 %
 ```
 
 <!--END_SECTION:waka-->
