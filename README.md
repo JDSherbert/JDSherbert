@@ -138,7 +138,7 @@ Colours:
 <!-- weather icon start -->
 <a href="https://weather.com/en-GB/weather/today/l/51.75,-1.26?par=google">
 <img align="right" margin="120px" alt="Weather" src="https://weather-icon.journeyad.repl.co/@oxford?v=1" width="160px"> </a>
-<a href="https://git.io/typing-svg"><img align="right" margin="100px" src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&repeat=false&width=200&lines=%E2%98%82%EF%B8%8F+My+Current+Weather..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&repeat=false&width=200&lines=%E2%98%82%EF%B8%8F+My+Current+Weather..." alt="Typing SVG" /></a>
 
 -----------------------------------------------
 </div>
