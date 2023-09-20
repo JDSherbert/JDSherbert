@@ -184,7 +184,7 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!-- TROPHY -->
 <div align="center">
   <a href="https://github.com/JDSherbert">
-    <img src="https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=algolia&no-bg=true&no-frame=true">
+    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=JDSherbert&theme=algolia&no-bg=true&no-frame=true">
   </a>
 </div>
 <!-- TROPHY END -->
