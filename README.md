@@ -228,9 +228,10 @@ Other                  6 hrs 36 mins   -------------------------   00.57 %
 <!-- ONLINE STORES -->
 -----------------------------------------------
 
-<a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%92+Online+Stores+%F0%9F%9B%92" alt="Print: Online Stores" /></a>
-
 <div align="center">
+  <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%92+Online+Stores+%F0%9F%9B%92" alt="Print: Online Stores" /></a>
+
+    
   <a href="https://jdsherbert.itch.io/"> 
     <img style="margin-right: 6px" alt="Itch.io" 
          src="https://img.shields.io/badge/Itch.io-FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&color=black&labelColor=FF0B34">
