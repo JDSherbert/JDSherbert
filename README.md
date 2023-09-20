@@ -204,7 +204,7 @@ alt="JDSherbert's Profile Details" /></a>
   </a>
 
   <a href="https://github.com/JDSherbert"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="JDSherbert's github stats" /></a>
-  <a href="https://github.com/JDSherbert"><img width=500 height=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&layout=compact&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/JDSherbert"><img width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&layout=compact&theme=react&hide_border=true" /></a>
 <!-- STATS END -->
 <!--START_SECTION:waka-->
 
