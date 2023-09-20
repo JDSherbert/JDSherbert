@@ -263,13 +263,14 @@ Other                  6 hrs 36 mins   -------------------------   00.57 %
   </a>
 </div>
   
------------------------------------------------
+<br/>
 <!-- ONLINE STORES END -->
 
   
 <!-- Footer Start -->
   
 <!-- wave GIF start -->
+<br/>
 <div align="center" width="100%">
   <a href="https://linktr.ee/JDSherbert">
     <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
