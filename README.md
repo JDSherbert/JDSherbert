@@ -18,6 +18,11 @@
      —— JDSherbert (https://github.com/JDSherbert)
 -->
 
+<!-- TEMPLATE INFO
+Colours:
+- Blue = 36BCF7FF
+-->
+
 <!-- Intro Section -->
 <div align="center"> 
   <img src="https://d1fdloi71mui9q.cloudfront.net/SrHStffzRKeQ5nfszKFd_OGjJYgdVVRKz1DZc">
@@ -140,9 +145,7 @@
 
 
 <!-- Welcome Text -->
-<a href="https://github.com/JDSherbert">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&width=435&lines=%F0%9F%91%8B+Welcome+to+JDSherbert's+Github!">
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&size=28&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9A%80+Welcome+to+my+Github+Profile!" alt="Typing SVG" /></a>
 <!-- Welcome Text End -->
 
 <!-- RECENT ACTIVITY
