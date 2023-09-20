@@ -116,11 +116,13 @@ Colours:
 <!-- Badges End -->
 
 -----------------------------------------------------------------------
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
+<div align="right">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
+</div>
 
 <!-- Skill Icons -->
 <div>
-<div align="right">
+<div align="left">
     <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&repeat=false&width=200&lines=%F0%9F%8C%A0+Proficiencies%3A" alt="Typing SVG" /></a>
     <br/>
     <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
