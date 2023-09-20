@@ -121,7 +121,8 @@ Colours:
 <!-- Skill Icons -->
 <div>
 <div align="left">
-    <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&repeat=false&width=200&lines=%F0%9F%8C%A0+Proficiencies%3A" alt="Typing SVG" /></a><br/>
+    <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=18&pause=1000&repeat=false&width=200&lines=%F0%9F%8C%A0+Proficiencies%3A" alt="Typing SVG" /></a>
+    <br/>
     <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
     <code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
     <code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
