@@ -114,16 +114,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=grafana.svg&icon_color=%2300ADD8&title=hits&style=for-the-badge")](https://github.com/JDSherbert)
 
 <!-- Skill Icons -->
-<h5 align="left"> Proficiencies: </h5>
-<code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
-<code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
-<code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
-<code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
-<code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
-<code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
-<code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
-<code><a href = "https://docs.python.org/3"><img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
-<code><a href = "https://haxe.org/"><img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
+<div align="left">
+    <h5 align="left"> Proficiencies: </h5>
+    <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
+    <code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
+    <code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
+    <code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
+    <code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
+    <code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
+    <code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
+    <code><a href = "https://docs.python.org/3"><img height="20" img width="20" src="https://cdn.simpleicons.org/python"></a></code>
+    <code><a href = "https://haxe.org/"><img height="20" img width="20" src="https://cdn.simpleicons.org/haxe"></a></code>
+</div>
 <!-- Skills Icons end -->
 
 <!-- weather icon start -->
