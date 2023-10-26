@@ -200,14 +200,14 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2022 - To: 23 October 2023
+From: 19 May 2022 - To: 24 October 2023
 
-Total Time: 1,192 hrs 18 mins
+Total Time: 1,196 hrs 6 mins
 
-C#                     782 hrs 1 min   >>>>>>>>>>>>>>>>---------   65.16 %
-C++                    265 hrs 30 mins >>>>>>-------------------   22.12 %
-C                      61 hrs 36 mins  >------------------------   05.13 %
-Objective-C            59 hrs 16 mins  >------------------------   04.94 %
+C#                     782 hrs 1 min   >>>>>>>>>>>>>>>>---------   64.96 %
+C++                    265 hrs 36 mins >>>>>>-------------------   22.06 %
+C                      61 hrs 36 mins  >------------------------   05.12 %
+Objective-C            59 hrs 16 mins  >------------------------   04.92 %
 Other                  7 hrs 46 mins   -------------------------   00.65 %
 ```
 
