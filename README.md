@@ -21,6 +21,7 @@
 <!-- TEMPLATE INFO
 Colours:
 - Blue = 36BCF7FF
+- White = FFFFFF
 -->
 
 <!-- Intro Section -->
