@@ -219,7 +219,8 @@ Other                  10 hrs 33 mins  -------------------------   00.82 %
 <br/>
 
 <!-- SNAKE GRAPH -->
-[![Snake](https://github.com/JDSherbert/JDSherbert/blob/output/github-contribution-grid-snake2.svg)](https://github.com/JDSherbert)
+![Snake](https://raw.githubusercontent.com/JDSherbert/JDSherbert/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake](https://raw.githubusercontent.com/JDSherbert/JDSherbert/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!-- SNAKE GRAPH END -->
 <!-- GITHUB STATS END -->
 
