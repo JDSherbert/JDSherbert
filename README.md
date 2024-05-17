@@ -168,7 +168,7 @@ I invite you to delve into my repository and checkout my work + contributions to
   <br>
   <a href="https://github.com/JDSherbert/Wwise-Soundbank-XML-Parser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Wwise-Soundbank-XML-Parser&theme=react&hide_border=true" /></a>
   <a href="https://github.com/JDSherbert/Unreal-Engine-Async-Load-Tool"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Unreal-Engine-Async-Load-Tool&theme=react&hide_border=true" /></a>
-  <a href="https://github.com/JDSherbert/Programming_HandBook"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Wwise-Soundbank-Excluder&theme=react&hide_border=true" /></a>
+
   <a href="https://github.com/JDSherbert/Procedural-Reverb"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Procedural-Reverb&theme=react&hide_border=true" /></a>
 </div>
 
