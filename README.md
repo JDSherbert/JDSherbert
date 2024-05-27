@@ -38,7 +38,7 @@ Colours:
 <!-- Badges Start -->
 <div align="center">
     
-[![X](https://img.shields.io/x/follow/JDSherbert_?label=@JDSherbert_&style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=1DA1F2&color=000000)](https://x.com/JDSherbert_)
+[![X](https://img.shields.io/twitter/follow/JDSherbert_?label=@JDSherbert_&style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=000000)](https://twitter.com/JDSherbert_)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=JDSherbert&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&label=u/JDSherbert&labelColor=orange)](https://reddit.com/user/JDSherbert)
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=%20&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
@@ -54,8 +54,8 @@ Colours:
                 </a>
             </th>
             <th>
-                <a href="https://twitter.com/JDSherbert_">
-                    <img alt="twitter icon" src="https://cdn.simpleicons.org/twitter" width="36px">
+                <a href="https://x.com/JDSherbert_">
+                    <img alt="x icon" src="https://cdn.simpleicons.org/x" width="36px">
                 </a>
             </th>
             <th>
