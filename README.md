@@ -201,7 +201,7 @@ I invite you to delve into my repository and checkout my work + contributions to
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2022 - To: 29 May 2024
+From: 19 May 2022 - To: 30 May 2024
 
 Total Time: 1,668 hrs 15 mins
 
