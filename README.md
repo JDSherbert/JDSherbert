@@ -62,7 +62,7 @@ Colours:
     <code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
     <code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
     <code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
-    <code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/csharp"></a></code>
+    <code><a href = "https://learn.microsoft.com/en-us/dotnet/csharp"><img height="20" img width="20" src="https://cdn.simpleicons.org/c#"></a></code>
     <code><a href = "https://juce.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/juce"></a></code>
 </div>
 <!-- Skills Icons end -->
