@@ -49,8 +49,6 @@ Colours:
 
 -----------------------------------------------------------------------
 
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&title=🔍&color=black&labelColor=0E1128&title=hits&style=for-the-badge">
-
 <!-- Skill Icons -->
 <div>
 <div align="left">
@@ -78,6 +76,8 @@ Colours:
 <a href="https://www.twitter.com/JDSherbert_"> <img align="right" alt="Twitter Feed" src="https://github-readme-twitter-gazf.vercel.app/api?id=JDSherbert_&amp;layout=wide" alt="github-readme-twitter"></a>
 </div>
 <!-- RECENT ACTIVITY END -->   
+
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&title=🔍&color=black&labelColor=0E1128&title=hits&style=for-the-badge">
 
 <!-- my summary start -->
 <p> 
