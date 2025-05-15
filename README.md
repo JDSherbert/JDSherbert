@@ -77,13 +77,11 @@ Colours:
 </div>
 <!-- RECENT ACTIVITY END -->   
 
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&title=🔍&color=black&labelColor=0E1128&title=hits&style=for-the-badge">
-
 <!-- my summary start -->
 <p> 
-Welcome to my Github repository! I am a highly skilled and passionate Audio Engineer with extensive experience in the AAA and VR game industries. With a keen understanding of both the technical and creative aspects of game development, I strive to create immersive and captivating gaming experiences. 
+Welcome to my Github repository! I am a highly skilled and passionate Audio Engineer with extensive experience in the AAA and VR game industries. In my spare time, I like to mess about with Unreal Engine, Unity, and make noises for people to use in their projects.
     
-I invite you to delve into my repository and checkout my work + contributions to the world of game audio!
+Feel free to check out my work + contributions to the world of game audio!
 </p>
 <!-- my summary end -->
 
