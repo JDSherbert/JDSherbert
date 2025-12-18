@@ -79,9 +79,12 @@ Colours:
 
 <!-- my summary start -->
 <p> 
-Welcome to my Github repository! I am a highly skilled and passionate Audio Engineer with extensive experience in the AAA and VR game industries. In my spare time, I like to mess about with Unreal Engine, Unity, and make noises for people to use in their projects.
+Welcome to my Github repository! I am an Audio Software Engineer with a focus on C++, JUCE, and real-time DSP.  
+I’ve shipped commercial VST/AU plugins and contributed to AAA and VR game audio systems.  
+
+In my spare time, I prototype new audio tools, explore interactive sound design, and create plugins that inspire creativity.
     
-Feel free to check out my work + contributions to the world of game audio!
+Feel free to check out my work + contributions to the world of audio!
 </p>
 <!-- my summary end -->
 
