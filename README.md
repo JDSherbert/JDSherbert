@@ -129,14 +129,14 @@ Feel free to check out my work + contributions to the world of audio!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2022 - To: 22 December 2025
+From: 19 May 2022 - To: 23 December 2025
 
-Total Time: 2,193 hrs 7 mins
+Total Time: 2,199 hrs 8 mins
 
-C#                     1,053 hrs 1 min >>>>>>>>>>>>-------------   47.56 %
-C++                    644 hrs 26 mins >>>>>>>------------------   29.11 %
-C                      304 hrs 39 mins >>>----------------------   13.76 %
-Objective-C            113 hrs 37 mins >------------------------   05.13 %
+C#                     1,053 hrs 1 min >>>>>>>>>>>>-------------   47.43 %
+C++                    648 hrs 32 mins >>>>>>>------------------   29.21 %
+C                      305 hrs 18 mins >>>----------------------   13.75 %
+Objective-C            113 hrs 37 mins >------------------------   05.12 %
 Other                  20 hrs 59 mins  -------------------------   00.95 %
 ```
 
