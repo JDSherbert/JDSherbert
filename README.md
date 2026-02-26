@@ -129,7 +129,7 @@ Feel free to check out my work + contributions to the world of audio!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2022 - To: 23 February 2026
+From: 19 May 2022 - To: 24 February 2026
 
 Total Time: 2,297 hrs 46 mins
 
