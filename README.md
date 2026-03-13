@@ -36,7 +36,7 @@ Colours:
 Welcome to my Github! I'm an Audio Software Engineer specialising in C++, JUCE, and real-time DSP; with professional experience across AAA game audio, engine-level Wwise and FMOD integration, and commercial VST/AU plugin development.
 </p>
 <p>
-My interests span AAA game audio, audio middleware and tooling, VST/DAW plugin development, and music tech. I've shipped commercial VST plugins (<a href="https://jdsherbert.itch.io/sherbert-earshield">EarShield</a>, <a href="https://jdsherbert.itch.io/sherbert-clipper">Clipper</a>) — source available on request.
+My interests span AAA game audio, audio middleware and tooling, VST/DAW plugin development, and music tech. I've shipped commercial VST plugins (<a href="https://jdsherbert.itch.io/sherbert-earshield">EarShield</a>, <a href="https://jdsherbert.itch.io/sherbert-clipper">Clipper</a>); source available on request.
 </p>
  
 <p>
