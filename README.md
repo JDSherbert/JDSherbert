@@ -1,108 +1,87 @@
-<!--
-    JDSherbert's Github Profile
-    Author : JDSherbert
-    Contact : JDSherbert@outlook.com
-    Since : 15/03/2023
-
-    -----------------------------------------------------------------------
-    -----------------------------------------------------------------------
-    
-    Please DO NOT copy this and create your profile based on it.
-    You can use it as a reference, and copy a part of it, but DO NOT copy
-    all of this and create your profile based on it.
-
-    It is very common that you'll forget to change some information and leave
-    mine in your profile.
-
-    Many thanks,
-     —— JDSherbert (https://github.com/JDSherbert)
--->
-
 <!-- TEMPLATE INFO
 Colours:
 - Blue = 36BCF7FF
 - White = FFFFFF
 -->
-
+ 
 <!-- Intro Section -->
 <div align="center"> 
   <img src="https://d1fdloi71mui9q.cloudfront.net/SrHStffzRKeQ5nfszKFd_OGjJYgdVVRKz1DZc">
   <h1> JDSherbert </h1>
-  <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%8A+Senior+Audio+Engineer.+Occasionally+makes+noises+that+sound+good!" alt="Print: Occasionally makes noises that sound good!" /></a>
-
+  <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%8A+Audio+Software+Engineer.+Occasionally+makes+noises+that+sound+good!" alt="Print: Audio Software Engineer. Occasionally makes noises that sound good!" /></a>
 </div>
 <!-- Intro Section end -->
-
+ 
 <br/>
-
+ 
 <!-- Badges Start -->
 <div align="center">
     
-[![X](https://img.shields.io/twitter/follow/JDSherbert_?label=@JDSherbert_&style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=FFFFFF)](https://twitter.com/JDSherbert_)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=for-the-badge&logo=YouTube&logoColor=white&color=black&label=JDSherbert&labelColor=FF0000)](https://www.youtube.com/@JDSherbert)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=for-the-badge&logo=Reddit&logoColor=white&color=black&label=u/JDSherbert&labelColor=orange)](https://reddit.com/user/JDSherbert)
 [![Discord](https://img.shields.io/discord/664896441747243010?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=%20&labelColor=5865F2&color=000000)](https://discord.gg/JDdecZ3)
 [![WakaTime](https://wakatime.com/badge/user/5fba8b71-0f65-4f94-a4c5-e3a91ce486d6.svg?style=for-the-badge&label=%20&logo=WakaTime&logoColor=black&color=black&labelColor=black)](https://wakatime.com/@5fba8b71-0f65-4f94-a4c5-e3a91ce486d6)
-
+ 
 </div>
 <!-- Badges End -->
-
+ 
 -----------------------------------------------------------------------
-
-<!-- Skill Icons -->
-<div>
-<div align="left">
-    <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&duration=3000&pause=1000&repeat=false&width=200&lines=%F0%9F%8C%A0+Proficiencies%3A" alt="Print: Proficiencies" /></a>
-    <br/>
-    <code><a href = "hhttps://www.audiokinetic.com/en/"><img height="20" img width="20" src="https://cdn.simpleicons.org/wwise/white"></a></code>
-    <code><a href = "https://www.fmod.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/fmod/white"></a></code>
-    <code><a href = "https://docs.unrealengine.com/5.1/en-US/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unrealengine/white"></a></code>
-    <code><a href = "https://docs.unity.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/unity/white"></a></code>
-    <code><a href = "https://learn.microsoft.com/en-us/cpp/c-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c"></a></code>
-    <code><a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"><img height="20" img width="20" src="https://cdn.simpleicons.org/c++"></a></code>
-    <code><a href = "https://juce.com/"><img height="20" img width="20" src="https://cdn.simpleicons.org/juce"></a></code>
-</div>
-<!-- Skills Icons end -->
-
------------------------------------------------------------------------
-
+ 
 <!-- Welcome Text -->
 <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=28&duration=3000&pause=1000&repeat=false&width=435&lines=%F0%9F%9A%80+Welcome+to+my+Github+Profile!" alt="Print: Welcome To My Github Profile" /></a>
 <!-- Welcome Text End -->
-
-<!-- RECENT ACTIVITY
-<div align="right">
-<h4> Recent Activity </h4>
-<a href="https://www.twitter.com/JDSherbert_"> <img align="right" alt="Twitter Feed" src="https://github-readme-twitter-gazf.vercel.app/api?id=JDSherbert_&amp;layout=wide" alt="github-readme-twitter"></a>
-</div>
-<!-- RECENT ACTIVITY END -->   
-
-<!-- my summary start -->
-<p> 
-Welcome to my Github repository! I am an Audio Software Engineer with a focus on C++, JUCE, and real-time DSP.  
-I’ve shipped commercial VST/AU plugins and contributed to AAA and VR game audio systems.  
-
-In my spare time, I prototype new audio tools, explore interactive sound design, and create plugins that inspire creativity.
-    
-Feel free to check out my work + contributions to the world of audio!
+ 
+<!-- Summary start -->
+<p>
+Welcome to my Github! I'm an Audio Software Engineer specialising in C++, JUCE, and real-time DSP; with professional experience across AAA game audio, engine-level Wwise and FMOD integration, and commercial VST/AU plugin development.
 </p>
-<!-- my summary end -->
+<p>
+My interests span AAA game audio, audio middleware and tooling, VST/DAW plugin development, and music tech. I've shipped commercial VST plugins (<a href="https://jdsherbert.itch.io/sherbert-earshield">EarShield</a>, <a href="https://jdsherbert.itch.io/sherbert-clipper">Clipper</a>) — source available on request.
+</p>
+ 
+<p>
+On the side I prototype DSP tools, create SFX and music packs, and build game development assets and plugins across multiple engines. Feel free to explore!
+</p>
+<!-- Summary end -->
 
+-----------------------------------------------
+
+<!-- Experience begin -->
+<div align="center">
+  <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&duration=3000&pause=1000&center=true&repeat=false&width=435&lines=%F0%9F%A7%A0+Previous+Experience+%F0%9F%A7%A0" alt="Print: Welcome To My Github Profile" /></a>
+  <p>
+I've shipped commercial software and contributed to audio systems at multiple studios:
+  </p>
+ 
+  <a href="https://www.ndreams.com/">
+    <img alt="nDreams" src="https://img.shields.io/badge/nDreams-0E1128?style=for-the-badge&logoColor=white&labelColor=f52c78&color=f52c78">
+  </a>
+  <a href="https://soulassembly.com/">
+    <img alt="Soul Assembly" src="https://img.shields.io/badge/Soul%20Assembly-0E1128?style=for-the-badge&logoColor=white&labelColor=c20221&color=c20221">
+  </a>
+  <a href="https://www.flixinteractive.com/">
+    <img alt="Flix Interactive" src="https://img.shields.io/badge/Flix%20Interactive-0E1128?style=for-the-badge&logoColor=white&labelColor=4393d0&color=4393d0">
+  </a>
+</div>
+<!-- Experience end -->
+ 
 <br/>
 
+----------------------------------------------- 
+ 
 <!-- FEATURED REPOSITORIES -->
 <div align="center">
   <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&lines=%F0%9F%92%A0+Featured+Repositories+%F0%9F%92%A0" alt="Print: Featured Repositories" /></a>
   <br>
   <a href="https://github.com/JDSherbert/Wwise-Soundbank-XML-Parser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Wwise-Soundbank-XML-Parser&theme=react&hide_border=true" /></a>
-  <a href="https://github.com/JDSherbert/Unreal-Engine-Async-Load-Tool"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Unreal-Engine-Async-Load-Tool&theme=react&hide_border=true" /></a>
   <a href="https://github.com/JDSherbert/Unreal-Engine-Audio-Spline-Plugin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Unreal-Engine-Audio-Spline-Plugin&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/JDSherbert/Audio-Phaser-Effect"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Audio-Phaser-Effect&theme=react&hide_border=true" /></a>
   <a href="https://github.com/JDSherbert/Procedural-Reverb"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Procedural-Reverb&theme=react&hide_border=true" /></a>
 </div>
-
+ 
 ----------------------------------------------- 
 <!-- FEATURED REPOSITORIES END -->
-
+ 
 <!-- GITHUB STATS -->
 <div align="center"> 
     <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&lines=%F0%9F%93%8A+JDSherbert's+Github+Stats+%F0%9F%93%8A" alt="Print: JDSherbert's Github Stats" /></a>
@@ -118,21 +97,23 @@ Feel free to check out my work + contributions to the world of audio!
 <!-- STREAK -->
 <div align="center">
   <a href="https://github.com/JDSherbert"><img width=720 src="https://github-readme-streak-stats.herokuapp.com/?user=JDSherbert&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"/></a>
+</div>
 <!-- STREAK END -->
 <!-- STATS -->
-    
+<div align="center">
   <a href="https://github.com/JDSherbert"><img width=820 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDSherbert&theme=react-dark&currStreakNum=FFFFFF&sideNums=FFFFFF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true"/></a>
     
   <a href="https://github.com/JDSherbert"><img width=460 align="center" src="https://github-readme-stats.vercel.app/api?username=JDSherbert&show_icons=true&include_all_commits=true&theme=react&hide_border=true"/></a>
   <a href="https://github.com/JDSherbert"><img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSherbert&layout=compact&theme=react&hide_border=true"/></a>
+</div>
 <!-- STATS END -->
+ 
 <!--START_SECTION:waka-->
-
 ```rust
 From: 19 May 2022 - To: 11 March 2026
-
+ 
 Total Time: 2,331 hrs 16 mins
-
+ 
 C#                     1,053 hrs 23 mins     >>>>>>>>>>>--------------   44.76 %
 C++                    683 hrs 13 mins       >>>>>>>------------------   29.03 %
 C                      306 hrs 22 mins       >>>----------------------   13.02 %
@@ -140,28 +121,26 @@ Objective-C            114 hrs 16 mins       >------------------------   04.86 %
 GDScript3              84 hrs 13 mins        >------------------------   03.58 %
 Other                  21 hrs 56 mins        -------------------------   00.93 %
 ```
-
 <!--END_SECTION:waka-->
-</div>
-
+ 
 <br/>
-
+ 
 <!-- SNAKE GRAPH -->
 ![Snake](https://raw.githubusercontent.com/JDSherbert/JDSherbert/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake](https://raw.githubusercontent.com/JDSherbert/JDSherbert/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!-- SNAKE GRAPH END -->
 <!-- GITHUB STATS END -->
-
+ 
 <br/>
-
+ 
 <!-- ONLINE STORES -->
 -----------------------------------------------
-
+ 
 <div align="center">
   <a href="https://github.com/JDSherbert">
       <img src="https://readme-typing-svg.demolab.com?font=Play&size=24&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%92+Online+Stores+%F0%9F%9B%92" alt="Print: Online Stores" />
   </a>
-    <br/>
+  <br/>
   <a href="https://jdsherbert.itch.io/"> 
     <img style="margin-right: 6px" alt="Itch.io" 
          src="https://img.shields.io/badge/Itch.io-FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&color=black&labelColor=FF0B34">
@@ -194,10 +173,8 @@ Other                  21 hrs 56 mins        -------------------------   00.93 %
   
 <br/>
 <!-- ONLINE STORES END -->
-
-  
+ 
 <!-- Footer Start -->
-  
 <!-- wave GIF start -->
 <br/>
 <div align="center" width="100%">
@@ -208,22 +185,21 @@ Other                  21 hrs 56 mins        -------------------------   00.93 %
 <!-- wave GIF end -->
   
 -----------------------------------------------
-
+ 
 <div align="center">
   <a href="https://github.com/JDSherbert"> 
-    <img style="margin-right: 6px" alt="Github Follow"src="https://img.shields.io/github/followers/jdsherbert?style=social">
+    <img style="margin-right: 6px" alt="Github Follow" src="https://img.shields.io/github/followers/jdsherbert?style=social">
   </a>
   <a href="https://twitter.com/JDSherbert_"> 
-    <img style="margin-right: 6px" alt="Twitter Follow"src="https://img.shields.io/twitter/follow/JDSherbert_?style=social">
+    <img style="margin-right: 6px" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/JDSherbert_?style=social">
   </a>
   <a href="https://reddit.com/user/JDSherbert"> 
-    <img style="margin-right: 6px" alt="Reddit Karma"src="https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social">
+    <img style="margin-right: 6px" alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/JDSherbert?style=social">
   </a>
   <a href="https://www.youtube.com/@JDSherbert"> 
-    <img style="margin-right: 6px" alt="Youtube Subscribers"src="https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social">
+    <img style="margin-right: 6px" alt="Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCQWN7zdUfskROpOVrkR2TYg?style=social">
   </a>
   <a href="https://discord.gg/JDdecZ3">
-    <img style="margin-right: 6px" alt="Discord"src="https://img.shields.io/discord/664896441747243010?label=Discord%20Server&logo=Discord&style=social">
+    <img style="margin-right: 6px" alt="Discord" src="https://img.shields.io/discord/664896441747243010?label=Discord%20Server&logo=Discord&style=social">
   </a>
 </div>
-  
