@@ -152,22 +152,22 @@ Other                  21 hrs 57 mins        -------------------------   00.93 %
     <img style="margin-right: 6px" alt="Unity Asset Store" 
          src="https://img.shields.io/badge/Unity%20Asset%20Store-white.svg?style=for-the-badge&logo=unity&logoColor=black&color=black&labelColor=white"> 
   </a>
-  <a href=""> 
+  <!-- <a href=""> 
     <img style="margin-right: 6px" alt="Epic Marketplace" 
          src="https://img.shields.io/badge/Epic%20Marketplace-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=black&labelColor=0E1128"> 
-  </a>
-  <a href="https://godotmarketplace.com/publisher/jdsherbert"> 
+  </a> -->
+  <!-- <a href="https://godotmarketplace.com/publisher/jdsherbert"> 
     <img style="margin-right: 6px" alt="Godot Marketplace" 
          src="https://img.shields.io/badge/Godot%20Marketplace-blue.svg?style=for-the-badge&logo=godotengine&logoColor=white&color=black&labelColor=blue"> 
-  </a>
+  </a> -->
   <a href="https://www.gamedevmarket.net/member/JDSherbert"> 
     <img style="margin-right: 6px" alt="GameDev Market" 
          src="https://img.shields.io/badge/GameDev%20Market-orange.svg?style=for-the-badge&logo=gamedeveloper&logoColor=white&color=black&labelColor=orange"> 
   </a>
-  <a href="https://marketplace.yoyogames.com/publishers/7519/jdsherbert"> 
+  <!-- <a href="https://marketplace.yoyogames.com/publishers/7519/jdsherbert"> 
     <img style="margin-right: 6px" alt="GameMakerStudio Marketplace" 
          src="https://img.shields.io/badge/Game%20Maker%20Studio%20Store-121011.svg?style=for-the-badge&logo=gamemaker&logoColor=white&color=black&labelColor=121011"> 
-  </a>
+  </a> -->
   <a href="https://ko-fi.com/jdsherbert"> 
     <img style="margin-right: 6px" alt="Ko-Fi Store" 
          src="https://img.shields.io/badge/KoFi%20Store-hotpink?style=for-the-badge&logo=kofi&logoColor=white&color=black&labelColor=hotpink"> 
