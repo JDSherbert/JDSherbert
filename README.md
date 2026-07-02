@@ -50,7 +50,7 @@ On the side I prototype DSP tools, create SFX and music packs, and build game de
 <div align="center">
   <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=24&duration=3000&pause=1000&center=true&repeat=false&width=435&lines=%F0%9F%A7%A0+Previous+Experience+%F0%9F%A7%A0" alt="Print: Welcome To My Github Profile" /></a>
   <p>
-I've shipped commercial software and contributed to audio systems at multiple studios:
+I've shipped commercial software and contributed to gameplay and audio systems at multiple studios:
   </p>
 
   <a href="https://www.centaurussoftware.co.uk/">
