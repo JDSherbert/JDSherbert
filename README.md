@@ -54,7 +54,7 @@ I've shipped commercial software and contributed to audio systems at multiple st
   </p>
 
   <a href="https://www.centaurussoftware.co.uk/">
-    <img alt="Centaurus Software" src="https://img.shields.io/badge/nDreams-0E1128?style=for-the-badge&logoColor=white&labelColor=f52c78&color=f52c78">
+    <img alt="Centaurus Software" src="https://img.shields.io/badge/Centaurus%20Software-0E1128?style=for-the-badge&logoColor=white&labelColor=f52c78&color=f52c78">
   </a>
   <a href="https://www.ndreams.com/">
     <img alt="nDreams" src="https://img.shields.io/badge/nDreams-0E1128?style=for-the-badge&logoColor=white&labelColor=f52c78&color=f52c78">
