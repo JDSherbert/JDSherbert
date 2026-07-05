@@ -8,7 +8,7 @@ Colours:
 <div align="center"> 
   <img src="https://d1fdloi71mui9q.cloudfront.net/SrHStffzRKeQ5nfszKFd_OGjJYgdVVRKz1DZc">
   <h1> JDSherbert </h1>
-  <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%8A+Audio+Software+Engineer.+Occasionally+makes+noises+that+sound+good!" alt="Print: Make Things Make Noise" /></a>
+  <a href="https://github.com/JDSherbert"><img src="https://readme-typing-svg.demolab.com?font=Play&size=16&pause=1000&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%94%8A+Make+Things+Make+Noise" alt="Print: Make Things Make Noise" /></a>
 </div>
 <!-- Intro Section end -->
  
