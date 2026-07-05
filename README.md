@@ -33,14 +33,19 @@ Colours:
  
 <!-- Summary start -->
 <p>
-Welcome to my Github! I'm an Audio Software Engineer specialising in C++, JUCE, and real-time DSP; with professional experience across AAA game audio, engine-level Wwise and FMOD integration, and commercial VST/AU plugin development.
+Welcome to my GitHub. I'm a <b>Software Engineer</b> with a strong foundation in C++ and real-time systems, and a deep specialization in <b>audio programming and DSP</b>.
 </p>
+
 <p>
-My interests span game audio, audio middleware and tooling, VST/DAW plugin development, and music tech. I've shipped commercial VST plugins and game soundtracks, and everything in between.
+I work across game and engine development, with professional experience in AAA game audio pipelines, middleware integration (Wwise, FMOD), and performance-critical runtime systems. While audio is my core domain, I build and contribute to broader gameplay and tooling systems as well.
 </p>
- 
+
 <p>
-On the side I prototype DSP tools, create SFX and music packs, and build game development assets and plugins across multiple engines. Feel free to explore!
+My focus is on building interactive systems: Gameplay and Engine tools, audio middleware and systems (integration and custom DSP). I've shipped commercial VST/AU plugins, developed game audio systems, and created gameplay-adjacent tools and prototypes across multiple engines.
+</p>
+
+<p>
+Outside of core engineering work, I experiment with procedural audio, game development tools, SFX/music production, and plugin development for creative software environments.
 </p>
 <!-- Summary end -->
 
