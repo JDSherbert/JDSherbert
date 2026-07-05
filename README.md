@@ -45,7 +45,7 @@ My focus is on building interactive systems: Gameplay and Engine tools, audio mi
 </p>
 
 <p>
-Outside of core engineering work, I experiment with procedural audio, game development tools, SFX/music production, and plugin development for creative software environments.
+Outside of core engineering work, I experiment with procedural audio, game development tools, SFX/music production, and plugin development for creatives, as well as regularly contribute open source tools.
 </p>
 <!-- Summary end -->
 
