@@ -84,7 +84,7 @@ I've shipped commercial software and contributed to gameplay and audio systems a
   <a href="https://github.com/JDSherbert/Wwise-Soundbank-XML-Parser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Wwise-Soundbank-XML-Parser&theme=react&hide_border=true" /></a>
   <a href="https://github.com/JDSherbert/Unreal-Engine-Audio-Spline-Plugin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Unreal-Engine-Audio-Spline-Plugin&theme=react&hide_border=true" /></a>
   <a href="https://github.com/JDSherbert/LoopKnife"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=LoopKnife&theme=react&hide_border=true" /></a>
-  <a href="https://github.com/JDSherbert/Procedural-Reverb"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Procedural-Reverb&theme=react&hide_border=true" /></a>
+  <a href="https://github.com/JDSherbert/Packrat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JDSherbert&repo=Packrat&theme=react&hide_border=true" /></a>
 </div>
  
 ----------------------------------------------- 
