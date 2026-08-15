@@ -119,7 +119,7 @@ I've shipped commercial software and contributed to gameplay and audio systems a
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2022 - To: 12 August 2026
+From: 19 May 2022 - To: 13 August 2026
 
 Total Time: 3,059 hrs 31 mins
 
