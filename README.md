@@ -119,19 +119,19 @@ I've shipped commercial software and contributed to gameplay and audio systems a
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2022 - To: 15 October 2026
+From: 19 May 2022 - To: 16 October 2026
 
-Total Time: 3,236 hrs 41 mins
+Total Time: 3,243 hrs 23 mins
 
-C++                    1,080 hrs 58 mins     >>>>>>>>-----------------   33.14 %
-C#                     1,079 hrs 30 mins     >>>>>>>>-----------------   33.10 %
-C                      409 hrs 5 mins        >>>----------------------   12.54 %
-Objective-C            138 hrs 41 mins       >------------------------   04.25 %
-C/C                    102 hrs 15 mins       >------------------------   03.14 %
-GDScript3              90 hrs 54 mins        >------------------------   02.79 %
-JavaScript             71 hrs 55 mins        >------------------------   02.21 %
-Markdown               63 hrs 22 mins        -------------------------   01.94 %
-HTML                   44 hrs 51 mins        -------------------------   01.38 %
+C++                    1,080 hrs 58 mins     >>>>>>>>-----------------   33.08 %
+C#                     1,079 hrs 30 mins     >>>>>>>>-----------------   33.03 %
+C                      409 hrs 46 mins       >>>----------------------   12.54 %
+Objective-C            138 hrs 41 mins       >------------------------   04.24 %
+C/C                    102 hrs 15 mins       >------------------------   03.13 %
+GDScript3              90 hrs 54 mins        >------------------------   02.78 %
+JavaScript             72 hrs 50 mins        >------------------------   02.23 %
+Markdown               64 hrs 23 mins        -------------------------   01.97 %
+HTML                   45 hrs 24 mins        -------------------------   01.39 %
 CMake                  31 hrs                -------------------------   00.95 %
 ```
 
